@@ -2,3 +2,16 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/misc/rules/"}
 ---
 
+ **No kids.** Minimum character age of 15 (or ancestry- equivalent).
+<br>
+**No Loners.** This is a group game. Make a character that works with the party, not against it.
+<br>
+**Motivation.** When creating a character, the most important thing is both an intrinsic motivation as well as a reason for your character to stay with the party. 
+<br>
+**Milestone Leveling.**
+<br>
+**Alignments.** Alignments are not definitive but mere suggestions as to how to play your character. You can choose alignments, but you don’t have to. 
+<br>
+**Ability Scores** Scores can be determined by rolling, point buy or base stats.
+<br> 
+**Rolling Ability Scores** When rolling for Ability Scores, you get one pity roll. After rerolling, you can chose wether or not to use the original roll or the new one. When you roll three or more Scores below 10, you can reroll twice instead of once.
