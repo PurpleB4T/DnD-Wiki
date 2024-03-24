@@ -64,7 +64,7 @@ If you are able to cast spells, you can't cast them or concentrate on them while
 
 Your rage lasts for 1 minute. It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end your rage on your turn as a bonus action.
 
-\pagebreak
+
 
 Once you have raged the number of times shown for your barbarian level in the Rages column of the Barbarian table, you must finish a long rest before you can rage again.
 
@@ -214,7 +214,7 @@ Starting at 14th level, when you take damage from a creature that is within 5 fe
 
 Starting at 14th level, when you take the attack action while you are raging and have advantage on an attack roll against one of the targets, you can forgo the advantage for that roll to make an additional melee weapon attack against that target, as part of the same action. You can do so no more than once per turn.
 
-\pagebreak
+
 
 <div class='footnote'><p><a href="#toc">back to the top</a></p></div>
 <h2 id="Path-of-the-Storm-Herald"> Path of the Storm Herald </h2>
@@ -295,7 +295,7 @@ At 3rd level, when you adopt this path, you choose a totem spirit and gain its f
 
 Your totem animal might be an animal related to those listed here but more appropriate to your homeland. For example, you could choose a hawk or vulture in place of an eagle.
 
-\pagebreak
+
 #### Bear 
 While you're raging, any creature within 5 feet of you that's hostile to you has disadvantage on attack rolls against targets other than you or another character with this feature. An enemy is immune to this effect if it can't see or hear you or if it can't be frightened. The spirit of the bear makes you a fearsome protector.
 
@@ -375,7 +375,7 @@ Once you use this feature, you can't use it again until you finish a **short res
 * **Battlerager Charge:** *Replaced*
 * **Spiked Retribution:** *Replaced*
 
-\pagebreak
+
 ### Spiked Armor Training 
 *(Replaces 3rd level "Battlerager Armor" feature)*
 
