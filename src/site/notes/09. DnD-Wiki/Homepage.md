@@ -6,6 +6,8 @@
 - Put in links to most important pages
 
 # Homebrew Overview
+If this is your first time playing with me, please be careful to read through this entire section. 
+When picking your lineage/ race and class please use this site instead of books or other sources! If a subclass is not in this document you can use vanilla DnD as a source.
 ## Part 1 - General Character Creation
 - [[09. DnD-Wiki/Rules/Misc/Available Content\|Available Content]] 
 - [[09. DnD-Wiki/Rules/Misc/Rules\|Rules]]
@@ -81,4 +83,11 @@
 		- School of Trans(mutation)
 		- War Magic
 		- Graviturgy Magic 
+
+## Part 2 - Playing the Game
+- [[09. DnD-Wiki/Rules/Misc/Feats\|Feats]]
+- [[09. DnD-Wiki/Rules/Misc/In Game Rules\|In Game Rules]]
+
+
+
 
