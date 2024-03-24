@@ -12,6 +12,6 @@ Please Check out all the class changes we made in this wiki when creating your c
 
 **Feats.** We made changes to several feats. Please make sure to use this wiki instead of Vanilla DnD when choosing features. I will gradually add every feat regardless of if I changed them or not to this wiki. 
 <br>
-**Spells.** Any officially published spells are available to pick and choose from. Additionaly, over time I will add homebrew spells to [this document](https://www.gmbinder.com/share/-Mx_mJHJW97Nq6NspA9r) as well. 
+**Spells.** Any officially published spells are available to pick and choose from. Additionaly, over time I will add homebrew spells to the expanded weaponlist as well. 
 <br>
-**Expanded Weaponlist.** For more inspiration for your characters weapons you can use this [expanded weaponlist](https://www.gmbinder.com/share/-N9GX_MFUQGedGK08p0E)
+**Expanded Weaponlist.** For more inspiration for your characters weapons you can use this [[09. DnD-Wiki/Rules/Misc/Expanded Weapon List\|Expanded Weapon List]]
