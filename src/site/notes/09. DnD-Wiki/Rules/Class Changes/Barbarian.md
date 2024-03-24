@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/barbarian/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/barbarian/","tags":["class","barbarian"]}
 ---
 
 
 # Main
+
 | Level | Prof | Features | Rages | Rage Damage | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
 | 1st | +2 | Rage, Unarmored Defense | 2 | +2 |
