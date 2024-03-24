@@ -20,7 +20,7 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 - [[09. DnD-Wiki/Rules/Misc/Rules\|Rules]]
 - [[09. DnD-Wiki/Rules/Lineages/Lineage Overview\|Lineages]]
 - Class Changes
-	- [[09. DnD-Wiki/Rules/Class Changes/Artificer\|Artificer]]
+	- [[09. DnD-Wiki/Rules/Class Changes/Artificer/Artificer\|Artificer]]
 		- Artificer Infusions
 		- Alchemist
 	- [[09. DnD-Wiki/Rules/Class Changes/Barbarian\|Barbarian]]
