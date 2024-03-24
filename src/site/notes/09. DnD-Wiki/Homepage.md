@@ -3,8 +3,12 @@
 ---
 
 
-- Put in links to most important pages
-
+# Hello 🦄
+This is my own Wiki for my campaigns, characters and lore. If you find spelling or formatting mistakes, let me know! 
+Below is my homebrew overview for your convenience. 
+If you want to know more about my campaign world, head over to the [[09. DnD-Wiki/Lore Wiki/Lore Wiki Homepage\|Lore Wiki]].
+Over time, this will become the main landing point for anything to do with my games. 
+**THIS ENTIRE PAGE IS VERY MUCH A MASSIVE WIP ATM, SO EXPECT A LOT OF CHANGES.**
 # Homebrew Overview
 If this is your first time playing with me, please be careful to read through this entire section. 
 When picking your lineage/ race and class please use this site instead of books or other sources! If a subclass is not in this document you can use vanilla DnD as a source.
@@ -88,6 +92,7 @@ When picking your lineage/ race and class please use this site instead of books 
 - [[09. DnD-Wiki/Rules/Misc/Feats\|Feats]]
 - [[09. DnD-Wiki/Rules/Misc/In Game Rules\|In Game Rules]]
 
+# Lore Wiki
 
 
 
