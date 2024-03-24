@@ -3,6 +3,16 @@
 ---
 
 
-woheee
+- Put in links to most important pages
 
-[[09. DnD-Wiki/Eos haha\|Eos]]
+# Homebrew Overview
+- Available Content 
+- Rules
+- [[09. DnD-Wiki/Rules/Lineages/Lineage Overview\|Lineages]]
+- Class Changes
+	- [[09. DnD-Wiki/Rules/Class Changes/Artificer\|Artificer]]
+		- Artificer Infusions
+		- Alchemist
+	- [[09. DnD-Wiki/Rules/Class Changes/Barbarian\|Barbarian]]
+		- Path of the Berserker 
+
