@@ -13,6 +13,9 @@ Over time, this will become the main landing point for anything to do with my ga
 If this is your first time playing with me, please be careful to read through this entire section. 
 When picking your lineage/ race and class please use this site instead of books or other sources! If a subclass is not in this document you can use vanilla DnD as a source.
 ## Part 1 - General Character Creation
+### Important
+The *Nature Domain Cleric* is the only published subclass I won't allow within my game, simply because it treads to far into the Druid's role. 
+### Table of Contents
 - [[09. DnD-Wiki/Rules/Misc/Available Content\|Available Content]] 
 - [[09. DnD-Wiki/Rules/Misc/Rules\|Rules]]
 - [[09. DnD-Wiki/Rules/Lineages/Lineage Overview\|Lineages]]
