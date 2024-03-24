@@ -78,18 +78,15 @@ In combat, the homunculus shares your initiative count, but it takes its turn im
 
 The homunculus regains 2d6 hit points if the mending spell is cast on it. If you or the homunculus dies, it vanishes, leaving its heart in its space.
 
-\pagebreak
-
----
-> ## Homunculus Servant
->*Tiny construct*
-> ---
+>[!info]   Homonculus Servant
+> Tiny construct
+>---
 > - **Armor Class** 13 (natural armor)
 > - **Hit Points** 1 + your Intelligence modifier + your artificer level (the homunculus has a number of Hit Dice [d4s] equal to your artificer level)
 > - **Speed** 20 ft., fly 30 ft.
->---
+> ---
 >|STR|DEX|CON|INT|WIS|CHA|
->|:---:|:---:|:---:|:---:|:---:|:---:|
+>|---|---|---|---|---|---|
 >|4 (-3)|15 (+2)|12 (+1)|10 (0)|10 (0)|7 (-2)|
 >---
 > - **Saving Throws:** Dex +2 plus PB
@@ -101,16 +98,15 @@ The homunculus regains 2d6 hit points if the mending spell is cast on it. If you
 > - **Languages** understands the languages you speak
 > - **Proficiency Bonus (PB)** equals your bonus
 > - **Evasion.** If the homunculus is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails. It can't use this trait if it's incapacitated.
-> ---
->
+> 
+>---
 > ### Actions
 > -  ***Force Strike.*** Ranged Weapon Attack: your spell attack modifier to hit, range 30 ft., one target you can see. Hit: 1d4 + PB force damage.
-> ---
->
+> 
+>---
 > ### Reactions
 > - ***Channel Magic.*** The homunculus delivers a spell you cast that has a range of touch. The homunculus must be within 120 feet of you.
 
----
 
 ### Mind Sharpener
 **Item: A suit of armor or robes**
@@ -140,7 +136,6 @@ In the tables, an item's entry tells you whether the item requires attunement. S
 
 If you have Xanathar's Guide to Everything, you can choose from among the common magic items in that book when you pick a magic item you can replicate with this infusion.
 
-\pagebreak
 
 #### Replicable Magic Items (2nd-Level Artificer) 
 | Magic Item	| Attunement |
@@ -206,7 +201,6 @@ If you have Xanathar's Guide to Everything, you can choose from among the common
 | Ring of Protection	| Yes |
 | Ring of the Ram	| Yes |
 
-\pagebreak
 
 ### Repulsion Shield
 **Prerequisite: 6th-level artificer**
