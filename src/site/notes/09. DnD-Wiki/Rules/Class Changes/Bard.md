@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/bard/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/bard/","tags":["class","bard"]}
 ---
 
 
