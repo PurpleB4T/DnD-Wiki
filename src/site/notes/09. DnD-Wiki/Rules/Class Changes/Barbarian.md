@@ -3,7 +3,7 @@
 ---
 
 
-# Main
+# Barbarian
 
 | Level | Prof | Features | Rages | Rage Damage | 
 | :---: | :---: | :---: | :---: | :---: | :---: | 
@@ -28,8 +28,6 @@
 | 19th | +6 | Ability Score Improvement | 6 | +4 |
 | 20th | +6 | Primal Champion | unlimited | +4 |
 
-</div>
-<div class='footnote'><p><a href="#toc">back to the top</a></p></div>
 
 ## Base Class Features
 **Source:** Player's Handbook.
