@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/cleric/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/cleric/","tags":["class","cleric"]}
 ---
 
 **IMPORTANT!**
