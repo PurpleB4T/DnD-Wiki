@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/artificer-infusions/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/artificer-infusions/","tags":["class","artificer"]}
 ---
 
 <h2 id="Infusions"> Artificer Infusions </h2>
