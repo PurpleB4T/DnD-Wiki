@@ -28,13 +28,13 @@
 | 19th | +6 | Ability Score Improvement | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
 | 20th | +6 | Soul of Artifice | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
 
- </div>
+
  
 
 
 
 
-### Class Features
+### Base Class Features
 **Source:** Ebberon/ Tasha's Cauldron of Everything.
 
 
