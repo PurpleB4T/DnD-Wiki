@@ -23,7 +23,7 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 	- [[09. DnD-Wiki/Rules/Class Changes/Artificer/Artificer\|Artificer]]
 		- Artificer Infusions
 		- Alchemist
-	- [[09. DnD-Wiki/Rules/Class Changes/Barbarian\|Barbarian]]
+	- [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Barbarian\|Barbarian]]
 		- Path of the Berserker 
 		- Path of the Storm Herald
 		- Path of the Totem Warrior
