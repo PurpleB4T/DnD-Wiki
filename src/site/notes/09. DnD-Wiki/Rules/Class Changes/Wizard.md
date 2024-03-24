@@ -1,3 +1,3 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/wizard/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/wizard/","tags":["class","wizard"]}
 ---
