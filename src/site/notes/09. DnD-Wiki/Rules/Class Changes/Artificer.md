@@ -226,13 +226,14 @@ The healing increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), a
 *(3rd level feature)*
 
 Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Alchemist Spells table. These spells count as artificer spells for you, but they don’t count against the number of artificer spells you prepare.
-Artificer Level | Alchemist Spells
-- |- 
-3rd | Healing Word, Ray of Sickness
-5th | Flaming Sphere, Melf's Acid Arrow
-9th | Gaseous Form, Mass Healing Word
-13th | Blight, Death Ward
-17th | Cloudkill, Raise Dead
+
+| Artificer Level | Alchemist Spells |
+| - | - |
+| 3rd | Healing Word, Ray of Sickness |
+| 5th | Flaming Sphere, Melf's Acid Arrow |
+| 9th | Gaseous Form, Mass Healing Word |
+| 13th | Blight, Death Ward |
+| 17th | Cloudkill, Raise Dead |
 
 
 
@@ -242,8 +243,9 @@ Artificer Level | Alchemist Spells
 At 3rd level, you have found a way to skip most of the brewing process for alchemically creating potent magical effects by directly infusing the potion with your own magic. Creating a potion using this feature takes you an hour. You have to have an empty vial available.
 
 You may choose one of the following spells and can use a spell slot to cast it, or team up with another spellcaster and turn one of their spells into a potion.
+
 Spell Level |Infusion Spells
- - | -
+ --- | ---
 1st | cure wounds, entangle, grease
 2nd |barkskin, shatter, lesser restoration
 3rd |blink, water breathing
@@ -339,8 +341,9 @@ This is a simple flavorless powder. If a creature consumes a full dose of this p
 
 #### Secrets of Enhancement.
 You learn the secrets of infusing powerful enhancements into your Alchemical Infusions. You can add the following spells to your list of available spells for alchemical infusions:
+
 Spell Level | Infusion Spells
-- |-
+---|---
 1st |heroism
 2nd |enlarge/reduce
 3rd |haste
@@ -348,8 +351,9 @@ Spell Level | Infusion Spells
 \pagebreak
 #### Secrets of Fire.
 You learn the secrets of infusing fire into your Alchemical Infusions. You can add the following spells to your list of available spells for alchemical infusions:
+
 Spell Level |Infusion Spells
- - | -
+ --- | ---
 1st |faerie fire
 2nd |dragon's breath
 3rd |fireball
@@ -357,8 +361,9 @@ Spell Level |Infusion Spells
 
 #### Secrets of Frost.
 You learn the secrets of infusing fire into your Alchemical Infusions. You can add the following spells to your list of available spells for alchemical infusions:
+
 Spell Level |Infusion Spells
- - | -
+ --- | ---
 1st |armor of agathys
 2nd |snilloc's snowball swarm
 3rd |ice storm
