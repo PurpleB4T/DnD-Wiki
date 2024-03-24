@@ -65,3 +65,61 @@ At 20th level, when you roll for initiative you regain **all expended uses** of 
 Additionally, when you or an inspired ally rolls a 1 or a 2 on a bardic inspiration dice, **you can re-roll the die** and must use the new roll, even if the new roll is a 1 or a 2.
 
 # Subclasses 
+<h2 id="College-of-Valor"> College of Valor </h2>
+
+**Source:** Player's Handbook.
+* **Bonus Proficiencies:** *Improved*
+* **Combat Inspiration:** Unchanged
+* **Extra Attack:** *Improved*
+* **Battle Magic:** Unchanged
+
+### Bonus Proficiencies
+*(Improved 3rd level feature)*
+
+When you join the College of Valor at 3rd level, you gain proficiency with medium armor, shields, and martial weapons.
+
+Additionally, you can use a weapon you're proficient with as a **spell-casting focus** for your bard spells.
+
+### Extra Attack
+*(Improved 6th level feature)*
+
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn. 
+
+Moreover, you can cast **a cantrip** in place of one of those attacks.
+
+
+
+<h2 id="College-of-Lore"> College of Lore </h2>
+
+**Source:** Player's Handbook
+* **Bonus Proficiencies:** Unchanged
+* **Cutting Words:** Unchanged
+* **Additional Magical Secrets:** Unchanged
+* **Peerless Skill:** *Re-written*
+
+### Peerless Skill
+*(Re-Written 14th level feature)*
+
+Starting at 14th level, whenever you fail an ability check, **you can reroll the d20 and must use the new roll**.
+
+You can use this feature a number of times **equal to your Charisma modifier (minimum of once)**, and you regain all expended uses when you finish a long rest.
+
+<div class='footnote'><p><a href="#toc">back to the top</a></p></div>
+
+<h2 id="College-of-Whispers"> College of Whispers </h2>
+
+**Source:** Xanather's Guide to Everything.
+* **Psychic Blades:** Unchanged
+* **Words of Terror:** *Re-Written*
+* **Mantle of Whispers:** Unchanged
+* **Shadow Lore:** Unchanged
+
+### Words of Terror
+*(Re-Written 3rd level feature)*
+
+At 3rd level, you learn to infuse innocent-seeming words with an insidious magic that can inspire terror. 
+
+If you speak to a **creature** for at least 1 minute, you can attempt to seed paranoia in its mind. At the end of the conversation, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened of you or another creature of your choice. It automatically succeeds if it doesn't share a language with you or it can't hear you. The target is frightened in this way for 1 hour, until it is attacked or damaged, or until it witnesses its allies being attacked or damaged. 
+
+If the target succeeds on its saving throw, the target has no hint that you tried to frighten it **and neither does any other creature that heard the conversation, if any**. Once you use this feature, you can't use it again until you finish a short or long rest.
+
