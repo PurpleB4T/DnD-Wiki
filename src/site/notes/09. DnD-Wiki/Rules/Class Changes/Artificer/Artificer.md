@@ -3,7 +3,6 @@
 ---
 
 
-# Main
 
 | Level | Prof | Features | Infusions known | Items Infused | Cantrips | 1st | 2nd | 3rd | 4th | 5th |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -29,11 +28,6 @@
 | 20th | +6 | Soul of Artifice | 12 | 6 | 4 | 4 | 3 | 3 | 3 | 2 |
 
 
- 
-
-
-
-
 ### Base Class Features
 **Source:** Ebberon/ Tasha's Cauldron of Everything.
 
@@ -47,7 +41,6 @@
 * **Saving Throws:** Constitution, Intelligence
 * **Skills:** Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, Sleight of Hand
 
-<div class='footnote'><p><a href="#toc">back to the top</a></p></div>
 
 #### Equipment
 You start with the following equipment, in addition to the equipment granted by your background:
@@ -115,7 +108,7 @@ When you gain this feature, pick four artificer infusions to learn. You learn ad
 
 Whenever you gain a level in this class, you can replace one of the artificer infusions you learned with a new one.
 
-\pagebreak
+You can find a list of improved infusions [[09. DnD-Wiki/Rules/Class Changes/Artificer/Artificer Infusions\|here]].
 
 #### Infusing an Item
 Whenever you finish a **long rest**, you can touch a nonmagical object and imbue it with one of your artificer infusions, turning it into a magic item. An infusion works on only certain kinds of objects, as specified in the infusion's description. If the item requires attunement, you can attune yourself to it the instant you infuse the item. If you decide to attune to the item later, you must do so using the normal process for attunement (see the attunement rules in the Dungeon Master's Guide).
