@@ -9,9 +9,8 @@
 > ![Pasted image 20240324201906.png](/img/user/09.%20DnD-Wiki/z-Assests/Pasted%20image%2020240324201906.png)
 > ---
 > ## Basic Information
-> 
->  |
-> --- | --- |
+> | Info | - |
+> |--- | --- |
 > | Natives | [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]],  fey (insert link here), [[09. DnD-Wiki/Rules/Lineages/Goblin\|Goblin]] |
 > | Shape and size | similar to the Prime Material Plane |
 > Gravity | Normal?
