@@ -2,8 +2,8 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/artificer/alchemist/","tags":["class","artificer","subclass"]}
 ---
 
-# Alchemist
 
+[[09. DnD-Wiki/Rules/Class Changes/Artificer/Artificer\|Back to Artificer]]
 
 **Source:** Tasha's Cauldron of Everything.
 * **Tool Proficiency:** *Improved*
