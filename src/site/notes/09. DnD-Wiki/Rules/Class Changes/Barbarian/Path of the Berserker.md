@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/barbarian/path-of-the-berserker/","tags":["class","barbarian"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/barbarian/path-of-the-berserker/","tags":["class","barbarian","subclass"]}
 ---
 
-
+**[[09. DnD-Wiki/Rules/Class Changes/Barbarian/Barbarian\|Back to Barbarian]]**
 **Source:** Player's Handbook.
 * **Frenzy:** *Re-Written & Re-located*
 * **Mindless Rage:** Unchanged
