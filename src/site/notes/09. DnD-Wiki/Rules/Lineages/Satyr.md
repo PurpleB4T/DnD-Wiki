@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/lineages/satyr/","tags":["race"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/lineages/satyr/","tags":["race","feywild","satyr"]}
 ---
 
 
