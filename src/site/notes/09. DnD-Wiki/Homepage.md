@@ -105,7 +105,6 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 { .block-language-dataview}
 
 #### [[09. DnD-Wiki/Rules/Class Changes/Warlock\|Warlock]] 
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Celestial\|The Celestial]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
@@ -114,6 +113,7 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undead\|The Undead]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undying\|The Undying]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
 
 { .block-language-dataview}
 ##### Eldritch Invocations
