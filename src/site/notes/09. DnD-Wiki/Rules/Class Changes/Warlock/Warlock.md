@@ -162,7 +162,6 @@ Once you regain spell slots this way, you must finish a long rest before you can
 [[09. DnD-Wiki/Rules/Class Changes/Warlock/Pact Boons\|Pact Boons]]
 
 ## Subclass
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Celestial\|The Celestial]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
@@ -171,5 +170,6 @@ Once you regain spell slots this way, you must finish a long rest before you can
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undead\|The Undead]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undying\|The Undying]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
 
 { .block-language-dataview}
