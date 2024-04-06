@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/lineages/elf/","tags":["race"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/lineages/elf/","tags":["race","fey"]}
 ---
 
 # In Game Rules
