@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/lineages/changeling/","tags":["race"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/lineages/changeling/","tags":["race","fey"]}
 ---
 
 **With ever-changing appearances, changelings reside in many societies undetected. Each changeling can supernaturally adopt any face they like. For some changelings, a new face is only a disguise. For other changelings, a new face may reveal an aspect of their soul.**
