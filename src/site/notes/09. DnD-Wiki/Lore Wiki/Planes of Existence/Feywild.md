@@ -11,7 +11,7 @@
 > ## Basic Information
 > | Info | - |
 > |--- | --- |
-> | Natives | [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]],  fey (insert link here), [[09. DnD-Wiki/Rules/Lineages/Goblin\|Goblin]] |
+> | Natives | [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]],  [[09. DnD-Wiki/Lore Wiki/Species/Fey\|Fey]], [[09. DnD-Wiki/Rules/Lineages/Goblin\|Goblin]] |
 > | Shape and size | similar to the Prime Material Plane |
 > Gravity | Normal?
 > Time | Flowing
