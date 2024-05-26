@@ -11,11 +11,11 @@ One group of fey was confusingly called *sprites*, despite this being a specific
 
 Yet another diverse group of minuscule fey were the gremlins, who descended from goblins transformed by fomorian rituals. They included the [fremlin](https://forgottenrealms.fandom.com/wiki/Fremlin "Fremlin"), [galltrit](https://forgottenrealms.fandom.com/wiki/Galltrit "Galltrit"), [jermlaine](https://forgottenrealms.fandom.com/wiki/Jermlaine "Jermlaine"), [snyad](https://forgottenrealms.fandom.com/wiki/Snyad "Snyad"), and the [plainsjan](https://forgottenrealms.fandom.com/wiki/Plainsjan "Plainsjan") that inhabited the planet [Anadia](https://forgottenrealms.fandom.com/wiki/Anadia "Anadia") in [Realmspace](https://forgottenrealms.fandom.com/wiki/Realmspace "Realmspace"). Mites were also considered by some to be members of this group.
 
-- [[09. DnD-Wiki/Rules/Lineages/Satyr\|Satyr]]
 - [[09. DnD-Wiki/Rules/Lineages/Harengon\|Harengon]]
+- [[09. DnD-Wiki/Rules/Lineages/Changeling\|Changeling]]
 - [[09. DnD-Wiki/Rules/Lineages/Fairy\|Fairy]]
 - [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]]
-- [[09. DnD-Wiki/Rules/Lineages/Changeling\|Changeling]]
+- [[09. DnD-Wiki/Rules/Lineages/Satyr\|Satyr]]
 
 { .block-language-dataview}
 
