@@ -20,9 +20,9 @@ You can transform into a beast of CR 0 at will without expending a use of your W
 | File                                                                                       |
 | ------------------------------------------------------------------------------------------ |
 | [[09. DnD-Wiki/Rules/Class Changes/Druid/Circle of Dreams\|Circle of Dreams]]           |
-| [[09. DnD-Wiki/Rules/Class Changes/Druid/Circle of the Shepard\|Circle of the Shepard]] |
-| [[09. DnD-Wiki/Rules/Class Changes/Druid/Circle of the Moon\|Circle of the Moon]]       |
 | [[09. DnD-Wiki/Rules/Class Changes/Druid/Circle of Land\|Circle of Land]]               |
+| [[09. DnD-Wiki/Rules/Class Changes/Druid/Circle of the Moon\|Circle of the Moon]]       |
+| [[09. DnD-Wiki/Rules/Class Changes/Druid/Circle of the Shepard\|Circle of the Shepard]] |
 
 { .block-language-dataview}
 
