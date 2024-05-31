@@ -9,14 +9,14 @@
 > # Satyr Lore (`=this.pronouns`)
 > ![Satyrs by Leo.png](/img/user/z_Assets/07.%20Images/Satyrs%20by%20Leo.png)
 > ###### Bio
->  |
-> ---|---|
+> | Info | Info |
+>  |---|---|
 > **Typically Found in** | Feywild |
 > **Life Expectancy** | around 450-550 years |
 > **Typical Height Range**  | typically between 1m to 3,5m |
 > ###### Info
->  |
-> ---|---|
+> | Info | Info | 
+>  |---|---|
 > **Alias(es)** | `=this.alias` |
 >  **Languages** | Sylvan |
 > **Group(s)** | [[Circle of Tired Dads\|Circle of Tired Dads]] |
