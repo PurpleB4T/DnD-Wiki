@@ -29,14 +29,14 @@
 > # Satyr (`=this.pronouns`)
 > ![Satyrs by Leo.png](/img/user/z_Assets/07.%20Images/Satyrs%20by%20Leo.png)
 > ###### Bio
->  |
-> ---|---|
+> | Info | Info |
+>  |---|---|
 > **Typically Found in** | `=this.found` |
 > **Life Expectancy** | `=this.age` |
 > **Typical Height Range**  | `=this.Height` |
 > ###### Info
->  |
-> ---|---|
+> | Info | Info | 
+>  |---|---|
 > **Alias(es)** | `=this.alias` |
 >  **Languages** | `=this.languages` |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
