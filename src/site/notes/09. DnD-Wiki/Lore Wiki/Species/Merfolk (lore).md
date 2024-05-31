@@ -1,9 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/species/merfolk-lore/","tags":["Species"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/species/merfolk-lore/","tags":["Species","lineage"]}
 ---
 
 
-**Tags:** #Species #Unicorn #lineage 
 > [!infobox]
 > # Merfolk (lore) 
 > ![The_Shape_Of_Water 3.png](/img/user/The_Shape_Of_Water%203.png)
