@@ -16,6 +16,7 @@ Yet another diverse group of minuscule fey were the gremlins, who descended from
 - [[09. DnD-Wiki/Rules/Lineages/Fairy\|Fairy]]
 - [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]]
 - [[09. DnD-Wiki/Rules/Lineages/Satyr\|Satyr]]
+- [[Satyr\|Satyr]]
 
 { .block-language-dataview}
 
