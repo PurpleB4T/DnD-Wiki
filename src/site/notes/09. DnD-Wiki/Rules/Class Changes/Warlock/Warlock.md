@@ -94,21 +94,21 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class
 
 #### Improved Invocations
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Armor of Shadows\|Armor of Shadows]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Bewitching Whispers\|Bewitching Whispers]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eldritch Spear\|Eldritch Spear]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eyes of the Rune Keeper\|Eyes of the Rune Keeper]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gaze of Two Minds\|Gaze of Two Minds]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gift of the Depths\|Gift of the Depths]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Grasp of Hadar\|Grasp of Hadar]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Lance of Lethargy\|Lance of Lethargy]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Master of Myriad Forms\|Master of Myriad Forms]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Mire the Mind\|Mire the Mind]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Otherworldly Leap\|Otherworldly Leap]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Resistance of the Talisman\|Resistance of the Talisman]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Thief of Five Fates\|Thief of Five Fates]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Tomb of Levistus\|Tomb of Levistus]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Resistance of the Talisman\|Resistance of the Talisman]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Otherworldly Leap\|Otherworldly Leap]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Mire the Mind\|Mire the Mind]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Master of Myriad Forms\|Master of Myriad Forms]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Lance of Lethargy\|Lance of Lethargy]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Grasp of Hadar\|Grasp of Hadar]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gift of the Depths\|Gift of the Depths]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gaze of Two Minds\|Gaze of Two Minds]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eyes of the Rune Keeper\|Eyes of the Rune Keeper]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eldritch Spear\|Eldritch Spear]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Bewitching Whispers\|Bewitching Whispers]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Armor of Shadows\|Armor of Shadows]]
 
 { .block-language-dataview}
 
@@ -162,14 +162,14 @@ Once you regain spell slots this way, you must finish a long rest before you can
 [[09. DnD-Wiki/Rules/Class Changes/Warlock/Pact Boons\|Pact Boons]]
 
 ## Subclass
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Celestial\|The Celestial]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Genie\|The Genie]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Great Old One\|The Great Old One]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undead\|The Undead]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undying\|The Undying]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undead\|The Undead]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Great Old One\|The Great Old One]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Genie\|The Genie]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Celestial\|The Celestial]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
 
 { .block-language-dataview}
