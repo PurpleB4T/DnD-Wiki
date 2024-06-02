@@ -36,7 +36,7 @@
 | [[09. DnD-Wiki/Rules/Lineages/Naga\|Naga]]       |    Amonketh6                                                                           |
 | [[09. DnD-Wiki/Rules/Lineages/Orc\|Orc]]        | Base, Ebberon, Exandria, Ixalan                                                        |
 | [[09. DnD-Wiki/Rules/Lineages/Owlin\|Owlin]]      | -                                                                                      |
-| [[Satyr\|Satyr]]      | -                                                                                      |
+| [[Satyr 1\|Satyr 1]]      | -                                                                                      |
 | [[09. DnD-Wiki/Rules/Lineages/Shifter\|Shifter]]    | Beasthide11, Longtooth11, Swiftstride11, Wildhunt16                                    |
 | [[09. DnD-Wiki/Rules/Lineages/Tabaxi\|Tabaxi]]     | -                                                                                      |
 | [[09. DnD-Wiki/Rules/Lineages/Tiefling\|Tiefling]]   | Asmodeus Baalzebul, Dispater, Fierna, Glasya, Levistus, Mammon, Mephistopheles, Zariel |
