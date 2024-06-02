@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Elves 
-> ![Placeholder.png](/img/user/z_Assets/Placeholder.png)
+> ![Placeholder.png](/img/user/z_Assets/07.%20Images/Placeholder.png)
 > ###### Bio
 > | Info | Info |
 >  |---|---|
