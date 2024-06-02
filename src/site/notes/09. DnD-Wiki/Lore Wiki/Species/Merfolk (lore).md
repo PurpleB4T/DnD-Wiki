@@ -5,7 +5,7 @@
 
 > [!infobox]
 > # Merfolk (lore) 
-> ![The_Shape_Of_Water 3.png](/img/user/The_Shape_Of_Water%203.png)
+> ![The_Shape_Of_Water 3.png](/img/user/z_Assets/07.%20Images/The_Shape_Of_Water%203.png)
 > ###### Bio
 > | Info | Info |
 >  |---|---|
