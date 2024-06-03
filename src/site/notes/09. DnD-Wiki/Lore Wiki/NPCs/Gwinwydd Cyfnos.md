@@ -23,9 +23,9 @@
 >  Type | Description |
 > ---|---|
 > **Occupation(s)** | Druid |
-> **Group(s)** | [[Chrysanthy Clan\|Chrysanthy Clan]] |
+> **Group(s)** | [[1. Eranvale Campaign/Locations/Settlements/Chrysanthy Clan\|Chrysanthy Clan]] |
 > **Condition** | healthy |
-> **Current Location** | [[Chrysanthy Clan\|Chrysanthy Clan]] |
+> **Current Location** | [[1. Eranvale Campaign/Locations/Settlements/Chrysanthy Clan\|Chrysanthy Clan]] |
 # History
 
 > [!infobox]
