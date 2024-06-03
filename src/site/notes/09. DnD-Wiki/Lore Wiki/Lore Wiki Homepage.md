@@ -10,7 +10,7 @@ Not all the lore you will find in here will be completely factual, as this repre
 
 #TODO 
 - [ ] [[09. DnD-Wiki/Lore Wiki/Planes of Existence/Feywild\|Feywild]]
-- [ ] [[09. DnD-Wiki/Lore Wiki/Species/Satyrs\|Satyrs]]
+- [ ] [[09. DnD-Wiki/Lore Wiki/Species/Satyrs\|09. DnD-Wiki/Lore Wiki/Species/Satyrs]]
 - [ ] [[09. DnD-Wiki/Lore Wiki/Species/Unicorns\|Unicorns]]
 - [ ] Settlements 
 	- [ ] Pran
