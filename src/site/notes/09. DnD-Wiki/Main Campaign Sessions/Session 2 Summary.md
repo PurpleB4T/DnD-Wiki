@@ -9,7 +9,7 @@
 
 
 >[!info]
-**Current Location:** [[1. Eranvale Campaign/Locations/Forest of Tassare Amal/Forest of Tassare Amal\|Forest of Tassare Amal]]
+**Current Location:** [[1. Eranvale Campaign/Locations/Points of Interest/Forest of Tassare Amal\|Forest of Tassare Amal]]
 **In Game Date:** 16.05.1864 - 17.05.1864
 **Session Date:** 04.09.2022
 
