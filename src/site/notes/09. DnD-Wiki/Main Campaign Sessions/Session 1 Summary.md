@@ -10,7 +10,7 @@
 ~~<- previous session~~ | [[09. DnD-Wiki/Homepage\|Back Home]] |  [[09. DnD-Wiki/Main Campaign Sessions/Session 2 Summary\|next session]] ->
 
 >[!info]
-**Current Location:** [[1. Eranvale Campaign/Settlements/Illo Anore/Illo Anore\|Illo Anore]]
+**Current Location:** [[1. Eranvale Campaign/Locations/Settlements/Illo Anore\|Illo Anore]]
 **In Game Date:** 15.05.1864 - 16.05.1864
 **Session Date:** 28.08.2022
 
