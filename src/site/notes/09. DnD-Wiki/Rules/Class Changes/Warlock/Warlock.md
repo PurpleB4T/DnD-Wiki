@@ -94,8 +94,8 @@ Additionally, when you gain a level in this class, you can choose one of the inv
 If an eldritch invocation has prerequisites, you must meet them to learn it. You can learn the invocation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class
 
 #### Improved Invocations
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Thief of Five Fates\|Thief of Five Fates]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Tomb of Levistus\|Tomb of Levistus]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Thief of Five Fates\|Thief of Five Fates]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Resistance of the Talisman\|Resistance of the Talisman]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Otherworldly Leap\|Otherworldly Leap]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Mire the Mind\|Mire the Mind]]
@@ -105,8 +105,8 @@ If an eldritch invocation has prerequisites, you must meet them to learn it. You
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gift of the Depths\|Gift of the Depths]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gaze of Two Minds\|Gaze of Two Minds]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eyes of the Rune Keeper\|Eyes of the Rune Keeper]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eldritch Spear\|Eldritch Spear]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Bewitching Whispers\|Bewitching Whispers]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Armor of Shadows\|Armor of Shadows]]
 
