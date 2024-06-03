@@ -52,16 +52,16 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Samurai\|Samurai]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Rune Knight\|Rune Knight]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Eldritch Knight\|Eldritch Knight]]
-- [[09. DnD-Wiki/Rules/Class Changes/Fighter/Banneret\|Banneret]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Battle Master\|Battle Master]]
+- [[09. DnD-Wiki/Rules/Class Changes/Fighter/Banneret\|Banneret]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Arcane Archer\|Arcane Archer]]
 
 { .block-language-dataview}
 
 #### [[09. DnD-Wiki/Rules/Class Changes/Monk/Monk\|Monk]]
 - [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Sun Soul\|Way of the Sun Soul]]
-- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Shadow\|Way of the Shadow]]
 - [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Open Hand\|Way of the Open Hand]]
+- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Shadow\|Way of the Shadow]]
 - [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Kensei\|Way of the Kensei]]
 - [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Drunken Master\|Way of the Drunken Master]]
 
@@ -80,12 +80,12 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 
 #### [[Rogue\|Rogue]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Thief\|Thief]]
-- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Scout\|Scout]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Swashbuckler\|Swashbuckler]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Soulknife\|Soulknife]]
+- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Scout\|Scout]]
+- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Phantom\|Phantom]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Mastermind\|Mastermind]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Inquisitive\|Inquisitive]]
-- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Phantom\|Phantom]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Assassin\|Assassin]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Arcane Trickster\|Arcane Trickster]]
 
@@ -117,8 +117,8 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 
 { .block-language-dataview}
 ##### Eldritch Invocations
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Thief of Five Fates\|Thief of Five Fates]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Tomb of Levistus\|Tomb of Levistus]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Thief of Five Fates\|Thief of Five Fates]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Resistance of the Talisman\|Resistance of the Talisman]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Otherworldly Leap\|Otherworldly Leap]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Mire the Mind\|Mire the Mind]]
@@ -128,8 +128,8 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gift of the Depths\|Gift of the Depths]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gaze of Two Minds\|Gaze of Two Minds]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eyes of the Rune Keeper\|Eyes of the Rune Keeper]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eldritch Spear\|Eldritch Spear]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Bewitching Whispers\|Bewitching Whispers]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Armor of Shadows\|Armor of Shadows]]
 
@@ -143,9 +143,9 @@ The *Nature Domain Cleric* is the only published subclass I won't allow within m
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Enchantment\|School of Enchantment]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Divination\|School of Divination]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Conjuration\|School of Conjuration]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Order of Scribes\|Order of Scribes]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Abjuration\|School of Abjuration]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Graviturgy Magic\|Graviturgy Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Order of Scribes\|Order of Scribes]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Chronurgy Magic\|Chronurgy Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Bladesinging\|Bladesinging]]
 
