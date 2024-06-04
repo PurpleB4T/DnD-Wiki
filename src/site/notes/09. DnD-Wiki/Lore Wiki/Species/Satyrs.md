@@ -19,8 +19,8 @@
 >  |---|---|
 > **Alias(es)** | `=this.alias` |
 >  **Languages** | Sylvan |
-> **Group(s)** | [[Circle of Tired Dads\|Circle of Tired Dads]] |
-> **Religion(s)** | [[Naturism\|Naturism]] |
+> **Group(s)** | [[1. Eranvale Campaign/Organisations/Circle of tired Dads\|Circle of tired Dads]] |
+> **Religion(s)** | [[1. Eranvale Campaign/Organisations/Naturism\|Naturism]] |
 
 # **Satyrs**
 > [!info|bg-c-purple]- Overview
@@ -28,6 +28,13 @@ TBD
 
 ## Druids
 ### Circle of the tired Dads 
+
+> [!metadata|literature]- Published Works
+> ```dataview
+> TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
+> FROM #Literature 
+> WHERE econtains(holder, this.file.link)
+> SORT file.name ASC
 
 # Typical racism against Satyrs 
 Generally, they face similar racism to Tielfings. 
