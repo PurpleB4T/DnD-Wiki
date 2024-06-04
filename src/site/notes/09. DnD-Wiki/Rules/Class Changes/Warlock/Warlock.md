@@ -162,10 +162,10 @@ Once you regain spell slots this way, you must finish a long rest before you can
 [[09. DnD-Wiki/Rules/Class Changes/Warlock/Pact Boons\|Pact Boons]]
 
 ## Subclass
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undying\|The Undying]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Great Old One\|The Great Old One]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undead\|The Undead]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Great Old One\|The Great Old One]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undying\|The Undying]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Genie\|The Genie]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
