@@ -16,6 +16,13 @@ Not all the lore you will find in here will be completely factual, as this repre
 	- [ ] Pran
 	- [ ] Astrakhan
 # Places
+## Planes^
+| File                                                                                 |
+| ------------------------------------------------------------------------------------ |
+| [[09. DnD-Wiki/Lore Wiki/Planes of Existence/l.Feywild\|l.Feywild]]               |
+| [[09. DnD-Wiki/Lore Wiki/Planes of Existence/l.Material Plane\|l.Material Plane]] |
+
+{ .block-language-dataview}
 ## Countries
 | File                                                        |
 | ----------------------------------------------------------- |
