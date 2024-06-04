@@ -15,3 +15,25 @@ Not all the lore you will find in here will be completely factual, as this repre
 - [ ] Settlements 
 	- [ ] Pran
 	- [ ] Astrakhan
+# Places
+## Countries
+| File | Aliases | Type | Defences | Dominion |
+| ---- | ------- | ---- | -------- | -------- |
+
+{ .block-language-dataview}
+## Settlements
+| File                                                                               | Aliases         | Type | Defences | Dominion |
+| ---------------------------------------------------------------------------------- | --------------- | ---- | -------- | -------- |
+| [[09. DnD-Wiki/Lore Wiki/Places/Settlements/Eranvale/l.Astrakhan\|l.Astrakhan]] | City of Dragons | \-   | \-       | \-       |
+| [[09. DnD-Wiki/Lore Wiki/Places/Settlements/Eranvale/l.Entodiff\|l.Entodiff]]   | \-              | \-   | \-       | \-       |
+| [[09. DnD-Wiki/Lore Wiki/Places/Settlements/Eranvale/l.Pran\|l.Pran]]           | \-              | \-   | \-       | \-       |
+
+{ .block-language-dataview}
+# Literature
+ | File                                                                                                                                                    | Aliases                     | Notes                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------- |
+| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | Slut Theory and Slut Praxis | A supposed self help book for the average slut. |
+
+{ .block-language-dataview}
+ 
+
