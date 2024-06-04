@@ -49,6 +49,13 @@ TBD
 ## Druids
 ### Circle of the tired Dads 
 
+> [!metadata|literature]- Published Works
+> ```dataview
+> TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
+> FROM #Literature 
+> WHERE econtains(holder, this.file.link)
+> SORT file.name ASC
+
 # Typical racism against Satyrs 
 Generally, they face similar racism to Tielfings. 
 ## Satyr specific
