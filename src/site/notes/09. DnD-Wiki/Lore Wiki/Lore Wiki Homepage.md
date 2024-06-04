@@ -66,9 +66,10 @@ Not all the lore you will find in here will be completely factual, as this repre
 
 
 # Literature
- | File                                                                                                                                                    | Aliases                                                                  | Notes                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------- |
-| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | Slut Theory and Slut Praxis, Applied Slut Theory (ASL), Applied Slutting | A supposed self help book for the average slut. |
+ | File                                                                                                                                                    | Aliases                                                                  | Notes                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
+| [[09. DnD-Wiki/Lore Wiki/Literature/A guide to the Flora of the Eranvale\|A guide to the Flora of the Eranvale]]                                     | The Flora of Eranvale                                                    | The book details the various plants which can be found in all mirror planes of the Eranvale area.  |
+| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | Slut Theory and Slut Praxis, Applied Slut Theory (ASL), Applied Slutting | A supposed self help book for the average slut.                                                    |
 
 { .block-language-dataview}
  
