@@ -17,9 +17,11 @@
 >> **Aliases** | `INPUT[list:aliases]` |
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Owner** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):holder]` |
+>>  **Languages** |   `INPUT[Language][inlineListSuggester:language]` |
 
-# Slut 101 - the Ins and Outs of being a successful Slut **by** [[05. Eos/People/Eos Asclepias of Chrysanthy\|a professional Slut]]
+# *Slut 101 - the Ins and Outs of being a successful Slut* **by** a professional Slut
 - the book was published in the year 1859 under an anonymous author tile by a publisher in Eranvale mostly known for publishing rather daring romance novels 
+	- the author simply identified themselves as [[05. Eos/People/Eos Asclepias of Chrysanthy\|a professional Slut]].
 ## Book summary
 - the book is supposedly a self help book detailing the steps to become and maintain being a "successful slut"
 - it speaks about ethical issues, shame and religious issues
