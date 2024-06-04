@@ -66,9 +66,9 @@ Not all the lore you will find in here will be completely factual, as this repre
 
 
 # Literature
- | File                                                                                                                                                    | Aliases                     | Notes                                           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- | ----------------------------------------------- |
-| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | Slut Theory and Slut Praxis | A supposed self help book for the average slut. |
+ | File                                                                                                                                                    | Aliases                                                                  | Notes                                           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------- |
+| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | Slut Theory and Slut Praxis, Applied Slut Theory (ASL), Applied Slutting | A supposed self help book for the average slut. |
 
 { .block-language-dataview}
  
