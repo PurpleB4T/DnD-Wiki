@@ -60,16 +60,24 @@ Not all the lore you will find in here will be completely factual, as this repre
 { .block-language-dataview}
  
 ## Religion
-#TODO 
+| File | Aliases |
+| ---- | ------- |
+
+{ .block-language-dataview}
 ### Gods and Deities
+| File | Aliases |
+| ---- | ------- |
+
+{ .block-language-dataview}
 ### Temples
 
 
 # Literature
- | File                                                                                                                                                    | Aliases                                                                  | Notes                                                                                              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------- |
-| [[09. DnD-Wiki/Lore Wiki/Literature/A guide to the Flora of the Eranvale\|A guide to the Flora of the Eranvale]]                                     | The Flora of Eranvale                                                    | The book details the various plants which can be found in all mirror planes of the Eranvale area.  |
-| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | Slut Theory and Slut Praxis, Applied Slut Theory (ASL), Applied Slutting | A supposed self help book for the average slut.                                                    |
+ | File                                                                                                                                                    | Author                                                                                 | Aliases                                                                  | Genre                                                                | Notes                                                                                              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- |
+| [[09. DnD-Wiki/Lore Wiki/Literature/A guide to the Flora of the Eranvale\|A guide to the Flora of the Eranvale]]                                     | <ul><li>[[09. DnD-Wiki/Lore Wiki/NPCs/Gwinwydd Cyfnos.md\\|Gwinwydd Cyfnos]]</li></ul> | The Flora of Eranvale                                                    | <ul><li>Science & Technology</li></ul>                               | The book details the various plants which can be found in all mirror planes of the Eranvale area.  |
+| [[09. DnD-Wiki/Lore Wiki/Literature/Slut 101 - the Ins and Outs of being a successful Slut\|Slut 101 - the Ins and Outs of being a successful Slut]] | a professional Slut                                                                    | Slut Theory and Slut Praxis, Applied Slut Theory (ASL), Applied Slutting | <ul><li>Self Help</li></ul>                                          | A supposed self help book for the average slut.                                                    |
+| [[09. DnD-Wiki/Lore Wiki/Literature/The merchant and the three children\|The merchant and the three children]]                                       | <ul><li>[[05. Eos/People/Ares Philamon of Maplevine.md\\|James Font]]</li></ul>        | \-                                                                       | <ul><li>Play</li><li>Historical Fiction</li><li>Propaganda</li></ul> | based on "Mutter Courage und ihre Kinder"                                                          |
 
 { .block-language-dataview}
  
