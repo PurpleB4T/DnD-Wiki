@@ -25,7 +25,14 @@
 > **Occupation(s)** | Druid |
 > **Group(s)** | [[1. Eranvale Campaign/Locations/Settlements/Chrysanthy Clan\|Chrysanthy Clan]] |
 > **Condition** | healthy |
-> **Current Location** | [[1. Eranvale Campaign/Locations/Settlements/Chrysanthy Clan\|Chrysanthy Clan]] |
+> **Current Location** | [[1. Eranvale Campaign/Locations/Settlements/Chrysanthy Clan\|Chrysanthy Clan]] |> 
+
+> [!metadata|literature]- Published Works
+> ```dataview
+> TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
+> FROM #Literature 
+> WHERE econtains(author, this.file.link)
+> SORT file.name ASC
 # History
 
 > [!infobox]
