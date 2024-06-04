@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/np-cs/gwinwydd-cyfnos/","tags":["WIP","feywild","druid"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/np-cs/gwinwydd-cyfnos/","tags":["NPC","feywild","druid"]}
 ---
 
 > [!infobox]
