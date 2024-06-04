@@ -18,6 +18,7 @@
 >> **Quick Notes** |  `INPUT[textArea:quicknote]`
 >> **Owner** | `INPUT[inlineListSuggester(optionQuery(#Character AND !"z_Templates"), useLinks(partial)):holder]` |
 >>  **Languages** |   `INPUT[Language][inlineListSuggester:language]` |
+>> **Genre** |   `INPUT[Genre][inlineListSuggester:Genre]` |
 
 # *Slut 101 - the Ins and Outs of being a successful Slut* **by** a professional Slut
 - the book was published in the year 1859 under an anonymous author tile by a publisher in Eranvale mostly known for publishing rather daring romance novels 
@@ -30,8 +31,8 @@
 	- this chapter also deals with the complex emotions of trauma and responses to it
 - long term relationships and how to harmonise your existence as a slut with commitment
 	- commitment issues and trust issues
-	- difficult feelings such as romantic ones
-	- communication is key
+	- how to deal with and recognise difficult feelings such as romantic ones
+	- communication being key
 	- prioritising what is most important to the individual slut 
 - random chapter about the political implications of marriage as an institution and the religious oppression of sluts written in a wildly different style
 - the last chapter deals with various "techniques of pleasure"
