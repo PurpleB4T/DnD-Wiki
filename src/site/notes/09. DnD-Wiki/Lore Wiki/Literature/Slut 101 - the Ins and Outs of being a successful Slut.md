@@ -34,8 +34,9 @@
 	- how to deal with and recognise difficult feelings such as romantic ones
 	- communication being key
 	- prioritising what is most important to the individual slut 
+- strange emphasis on clothes throughout the entire work
 - random chapter about the political implications of marriage as an institution and the religious oppression of sluts written in a wildly different style
-- the last chapter deals with various "techniques of pleasure"
+- the last (and most extensive) chapter deals with various "techniques of pleasure"
 ## Style
 - the book is written in a very personal way, instead of a more neutral one typical of "self help books"
 - while personal details are omitted, any mentions of experiences come off as personal, it has an almost diary like quality
