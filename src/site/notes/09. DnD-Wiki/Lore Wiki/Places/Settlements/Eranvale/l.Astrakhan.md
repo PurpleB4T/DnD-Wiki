@@ -3,4 +3,4 @@
 ---
 
 
-see [[1. Eranvale Campaign/Locations/Settlements/old/Astrakhan/Astrakhan DM\|Astrakhan DM]]
+see [[Astrakhan DM\|Astrakhan DM]]
