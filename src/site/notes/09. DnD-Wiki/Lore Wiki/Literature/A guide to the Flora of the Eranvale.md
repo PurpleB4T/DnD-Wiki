@@ -35,7 +35,7 @@ The book is categorised by function and commonality of the various plants, in th
 
 ## Reception
 The initial Sylvan release mostly went unnoticed on the material plane due to the language barrier. 
-Within the feywild the book saw relative success with various elven settlements within the plane and soon became of interest for [[1. Eranvale Campaign/Major NPCs/Dragon Family/Gize\|Professor Olaynore]]  who at the time still worked for the [[1. Eranvale Campaign/Organisations/University of Entodiff\|University of Entodiff]]. 
+Within the feywild the book saw relative success with various elven settlements within the plane and soon became of interest for [[1. Eranvale Campaign/NPCs/Major NPCs/Dragon Family/Gize\|Professor Olaynore]]  who at the time still worked for the [[1. Eranvale Campaign/Organisations/University of Entodiff\|University of Entodiff]]. 
 A team of botanists from a small wood elf settlement began working on an Elven translation only a year after it's initial release. The translation began as an unofficial effort but soon they reached out for help and official approval by the Druid Circle.
 Soon enough Professor Olaynore joined the translation team after catching wind of the project and having been interested in the book for a while. With her help the translation was completed two year after the original Sylvan release and with official approval Professor Olaynore began translating the book into common. 
 The Elven release was distributed both in the Feywild and Material Plane of Eranvale and found great success, which increased demands for a translation into Common. 
