@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/species/unicorns/","tags":["Feywild","Species"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/species/unicorns/","tags":["Feywild","Species","Unicorn","lineage"]}
 ---
 
-
-**Tags:** #Species #Unicorn #lineage 
 > [!infobox]
 > # Unicorns 
 > ![Unicorniums_.png](/img/user/z_Assets/07.%20Images/Unicorniums_.png)
@@ -19,7 +17,7 @@
 > **Alias(es)** | Monocerus |
 >  **Languages** | Sylvan, Celestial |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | [[Genisis\|Genisis]] |
+> **Religion(s)** | [[1. Eranvale Campaign/Organisations/Genisis\|Genisis]] |
 
 # **Unicorns**
 > [!info|bg-c-purple]- Overview
@@ -28,14 +26,23 @@ Typically found in the feywild or deep within forests, most people have never se
 
 # Description
 ## Appearance 
-- they resemble a large deer with a light shiny and soft coat and a long horse like mane
-	- generally light colours
+- their torso resembles that of a cheetah, with a slender light build
+	- a relatively robust and muscular chest/ rib-cage
+	- small, slender abdomen
+- their head resembles that of a deer, sometimes they also show a few more horse like characteristics
+	- their nose is deer like in shape, but its colouration tends to more pink or or brown hues
+	- their front teeth are typical of carnivorous animals, with long canines; in their back they have flat molars, similar to horses or goats
+- their coat is short and shiny, like a horse's
+	- colours usually tend to be on the lighter side (pastels, whites, light greys)
 	- shiny, like a golden shimmer, iridescent or dual chrome sheen to their fur  
+- horse like mane
+	- typically the colours of their mane are more saturated versions than their coat colour
 - long singular horn protrudes from their forehead, which varies in light and bright colours
 	- the horn feels like metal and is much heavier than the average horn when picked up
+- long lion tail 
 - most males have a white goatee like beard
 ## Abilities
-TBD
+- unicorns are said to be natural spellcasters 
 ## Diet
 - omnivorous
 - hunt using their horns and hooves, but also have a mean bite 
