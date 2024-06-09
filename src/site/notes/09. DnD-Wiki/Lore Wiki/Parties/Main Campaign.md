@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/parties/main-campaign/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/parties/main-campaign/","tags":["party","lore"]}
 ---
 
 
