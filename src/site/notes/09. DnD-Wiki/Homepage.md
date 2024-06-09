@@ -12,15 +12,16 @@ Over time, this will become the main landing point for anything to do with my ga
 **THIS ENTIRE PAGE IS VERY MUCH A MASSIVE WIP ATM, SO EXPECT A LOT OF CHANGES.**
 # Homebrew Overview
 If this is your first time playing with me, please be careful to read through this entire section. 
-When picking your lineage/ race and class please use this site instead of books or other sources! If a subclass is not in this document you can use vanilla DnD as a source.
+When picking your lineage/ race and class please use this site instead of books or other sources! *If a subclass is not in this document you can use vanilla DnD as a source.*
 ## Part 1 - General Character Creation
-### Important
-The *Nature Domain Cleric* is the only published subclass I won't allow within my game, simply because it treads to far into the Druid's role. 
-### Table of Contents
-- [[09. DnD-Wiki/Rules/Misc/Available Content\|Available Content]] 
-- [[09. DnD-Wiki/Rules/Misc/Rules\|Rules]]
-- [[09. DnD-Wiki/Rules/Lineages/Lineage Overview\|Lineages]]
-### Class Changes
+
+>[!warning] IMPORTANT
+> The *Nature Domain Cleric* is the only published subclass I won't allow within my game, simply because it treads to far into the Druid's role. 
+### Player Options 
+- [[09. DnD-Wiki/Rules/Misc/Available Content\|Available Content]] - details all the content available, please read this thoroughly 
+- [[09. DnD-Wiki/Rules/Misc/Rules\|Rules]] - details all the rules, read thoroughly
+- [[09. DnD-Wiki/Rules/Lineages/Lineage Overview\|Lineages]] - all available lineages 
+#### Class Changes
 
 #### **[[09. DnD-Wiki/Rules/Class Changes/Artificer/Artificer\|Artificer]]**
 - [[09. DnD-Wiki/Rules/Class Changes/Artificer/Alchemist\|Alchemist]]
