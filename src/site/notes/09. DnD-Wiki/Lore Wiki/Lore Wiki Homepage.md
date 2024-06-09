@@ -81,4 +81,8 @@ This is the Lore-Wiki, in which I publish commonly known lore/ facts or people o
 
 { .block-language-dataview}
  
+# Parties
+- [[09. DnD-Wiki/Lore Wiki/Parties/Main Campaign\|Main Campaign]]
+
+{ .block-language-dataview}
 
