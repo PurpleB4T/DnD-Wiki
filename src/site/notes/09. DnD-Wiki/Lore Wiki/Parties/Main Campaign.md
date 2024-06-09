@@ -97,7 +97,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 
 > [!infobox|left]
-> # Novalee
+> # Nuovis
 > ![Placeholder.png|200](/img/user/z_Assets/07.%20Images/Placeholder.png)
 > ###### Bio
 > | Info | Info |
@@ -152,7 +152,7 @@ Genius Alchemist that seems unsociable but kind(?). Doesn't talk much and someti
 
 
 > [!infobox|left]
-> # Novalee
+> # Roofus
 > ![Placeholder.png|200](/img/user/z_Assets/07.%20Images/Placeholder.png)
 > ###### Bio
 > | Info | Info |
