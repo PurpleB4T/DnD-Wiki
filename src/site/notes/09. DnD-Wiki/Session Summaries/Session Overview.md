@@ -14,4 +14,4 @@
 
 #TODO 
 - [ ] someshot summaries
-- [ ] rest of main campaign summaries
+- [x] rest of main campaign summaries

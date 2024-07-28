@@ -3,7 +3,7 @@
 ---
 
 
-2nd-level configuration
+2nd-level conjuration
 
 **Casting Time:** 1 action
 **Range:** 60 ft

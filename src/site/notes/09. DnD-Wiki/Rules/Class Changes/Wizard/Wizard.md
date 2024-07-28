@@ -129,7 +129,6 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 
 
 ## Subclasses
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Chronurgy Magic\|Chronurgy Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/War Magic\|War Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Transmutation\|School of Transmutation]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Necromancy\|School of Necromancy]]
@@ -141,6 +140,7 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Abjuration\|School of Abjuration]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Order of Scribes\|Order of Scribes]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Graviturgy Magic\|Graviturgy Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Chronurgy Magic\|Chronurgy Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Bladesinging\|Bladesinging]]
 
 { .block-language-dataview}

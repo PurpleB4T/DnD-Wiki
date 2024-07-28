@@ -21,7 +21,7 @@
 >>  **Author** |  `INPUT[list:author]`
 >>  **Genre** |   `INPUT[Genre][inlineListSuggester:Genre]` |
 
-# The merchant and the three children **by** [[05. Eos/People/Ares Philamon of Maplevine\|James Font]]
+# The merchant and the three children **by** [[05. Eos/People/Ares Philemon of Maplevine\|James Font]]
 The play takes place in the political unrest following the death of Fan Guillna.
 The main protagonist Anna Hubert, a merchant originally from a village close to Raemore. She travels the land with her three children, selling various goods to soldiers. 
 Throughout the book, the constant chase of seeling her goods makes her neglect her children. 

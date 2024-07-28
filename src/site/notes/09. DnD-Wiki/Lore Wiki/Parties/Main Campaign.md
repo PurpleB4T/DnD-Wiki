@@ -42,7 +42,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 > [!infobox]
 > # Dominique
-> ![Dominique Portrait.png|200](/img/user/Dominique%20Portrait.png)
+> ![Dominique Portrait.png|200](/img/user/z_Assets/Dominique%20Portrait.png)
 > ###### Description
 > `=this.astra_description`
 > ###### Bio
