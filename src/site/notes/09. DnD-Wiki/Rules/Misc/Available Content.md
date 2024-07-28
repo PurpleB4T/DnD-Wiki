@@ -16,4 +16,4 @@ Please Check out all the class changes we made in this wiki when creating your c
 <br>
 **Expanded Weaponlist.** For more inspiration for your characters weapons you can use this [[09. DnD-Wiki/Rules/Misc/Expanded Weapon List\|Expanded Weapon List]]
 
-**Expanded Spelllist.**  This list will expand in the future, at this point in time every spell from official sources as well as additional homebrew spells are available. A list of added spells can be found 
+**Expanded Spelllist.**  This list will expand in the future, at this point in time every spell from official sources as well as additional homebrew spells are available. A list of added spells can be found [[09. DnD-Wiki/Rules/Spells/Expanded Spell List\|here]].
