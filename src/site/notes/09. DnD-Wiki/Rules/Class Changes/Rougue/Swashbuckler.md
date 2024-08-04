@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/rougue/swashbuckler/","tags":["subclass","rogue"]}
 ---
 
-[[Rogue\|Back to Rogue]]
+[[09. DnD-Wiki/Rules/Class Changes/Rougue/Rogue\|Back to Rogue]]
 
 **You focus your training on the art of the blade, relying on speed, elegance, and charm in equal parts. While some warriors are brutes clad in heavy armor, your method of fighting looks almost like a performance. Duelists and pirates typically belong to this archetype.**
 
