@@ -42,12 +42,13 @@ It is a generally very conservative religion, disliking change.
 
 The most common believers are many unicorn congregations.
 
->[!infobox]
->![Holy Symbol of the Genesis.png|250](/img/user/z_Assets/Holy%20Symbol%20of%20the%20Genesis.png)
-> <center>Holy Symbol</center>
 #### The Genesis
 The Genesis is the name by which followers of Genesis refer to Or.
 Depictions of him are strictly forbidden, non-compliance will be strictly punished. 
+
+>[!infobox]
+>![Holy Symbol of the Genesis.png|250](/img/user/z_Assets/Holy%20Symbol%20of%20the%20Genesis.png)
+> <center>Holy Symbol</center>
 ##### Personality
 He is seen as kind and forgiving, but strict and terrible when angered. He valued forgiveness, repentance and true justice, strongly disdaining vengeance.  And though forgiving, he was intolerant of those who wilfully committed acts of evil or were unrepentant criminals that made living through dishonest means.  
 
