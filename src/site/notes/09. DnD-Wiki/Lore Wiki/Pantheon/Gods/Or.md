@@ -208,12 +208,12 @@ Punishment ranges from repentance and community work all the way to flogging, ta
 #### Rites
 ##### The Rite of the Divine Maiden
 
->[!infobox] 
-># Information
+> [!infobox]
+> ###### Information
 > | Info | Info |
-> | --- | --- | 
+>  |---|---|
 > **Type** | Cleansing Ritual |
-> **Time** | Early morning hours of the first moon |
+> **Time** | Early morning hours of the first moon |
 
 This rite is innately tied to the [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Or#Priestesses\|Priestesses]], who are female unicorns which have promised to remain pure and chaste. They take upon the role of cleansing the land and it's people from corruption in this rite.
 
