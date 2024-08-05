@@ -8,20 +8,8 @@
 >This is a WIP Article, things will change
 
 ## Overgods
-Also known as the 3 Creator Deities, who are said to have created the world as we know it. 
-3 deities who rebuilt the world once they took over 
-
-- one is the god unicorns worship (masculine gender)
-	- some see him as a all seeing, deity (very much like christianity)
-	- some see him as a gentle and kind 
-- placeholder
-- placeholder
-- Ù̴̙̖̘͖̥ͅn̸͈͍̲͋̉̀̀͋͛̚͜ͅk̶̼̝͗͊́͐̏͑̕͜n̸̙͓͆̈́̎͜o̷͇̹͈̮͒̀̎͊̚͜͝w̴̨͈͇̼̟̭̽ͅń̵̛̮́ ̴̮͇̼͙̝͕̦̏ͅẸ̴͙̎̈́̅́͝ȑ̵̪͔̝͎͑̈́̄̂̿͘ȓ̵̢̹̰̦͈̻͗̀̓ơ̸̡̬̇̍̓̐̍̉r̸̛̠̱͕͔̾͒
-	- tales of a deity who walks in circles and disappears, but who they are referring to has collectively been forgotten
-	- Domain: unknown 
 
 >[!god]+ Creator Deities
->They each embody aspects of the world itself. Clerics of all Domains worship these gods, but each god favours certain ones. 
 > | File                                                                                                                                                                                                                                                                                                       | Titles                                   | Pantheon          | Gender    | Alignment       | Symbol                          | Favoured Domains                          | Favoured Animals | Favoured Colours | Power Level |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------- | ----------------- | --------- | --------------- | ------------------------------- | ----------------------------------------- | ---------------- | ---------------- | ----------- |
 > | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Ayin\|Ayin]]                                                                                                                                                                                                                                                     | Yam of the Primordial Chaos, Prime Chaos | Efithian Pantheon | neutral   | chaotic neutral | changes based on interpretation | War, Peace, Balance, Nature, Chaos        | all              | non              | Overgod     |
@@ -32,6 +20,10 @@ Also known as the 3 Creator Deities, who are said to have created the world as w
 { .block-language-dataview}
 >
 
+Also known as the 3 Creator Deities, who are said to have created the world as we know it. 
+They each embody aspects of the world itself. Clerics of all Domains worship these gods, but each god favours certain ones. 
+[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Ayin\|Ayin]] is the Chaos from which the universe was shaped, [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Or\|Or]] is the Beginning and [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Choshek\|Choshek]] is the End. 
+There are tales of a d̴e̵i̷t̵y̸ ̸w̵h̸o̸ ̶w̸a̸l̴k̴s̴ ̶i̷n̵ c̷̫̲͝i̸͈͗r̵̩̩̎c̵̲͖͝l̶͚͗̐e̵̳̽̊s̶͈̭͆̓ ̴̹́̾b̶̫̍͘e̶͚̣̾̇f̶̺͕͝ǒ̴̘r̵̼̬̍e̷͚͔̓̀d̸̫̼̣͔̗̍̿̔̒͂͜i̴̢͈̳͍͈̞͒̅͒͘s̸̢̯͗́̑͒͠å̵̖p̷̩̭̯̎̉̋̽͂p̴̟̳̖̗̄̇̀̇̏ȇ̶͓͙̅ḁ̶̣͉͗̑̔̽͝ŕ̷͉̐i̷̡̻̝̐́́̈́͘n̵̨̦͋͊g̴̛̤̞̝̟͈͍̃̾̋̌͘,̷̜͙̒̅͝ ̵̜̀̍͒ͅb̵̝̆̈͗̈́͊u̷̮̠̭̙̬͌̈́t̶̢̛̩̝̖̗̲̔̅͋̾͋w̶͕͓̬̆̂͐͌̾̂̃͐h̴̜͉̩̺̤̱̠̃̒͂̏̆͘o̵͓͛͑̏̈̋͝ ̴̡̝̐̒̾̋̿͝t̷̝̪͙́ḩ̴̡̜͓̟̦̄̔̓̈́͆͝e̸̬̪͌̉̾̋͌y̴͕̪̪͍̤̞̜̿̔̑̍ ̶̯͒͋̀̿̋̾͘ḁ̸̠̾̇̊́̃ȓ̴̨̛̺̭̯͙̈̌͋̄͠ḛ̸͔͎͙͝ ̷̝͔̬̩̼̞̳̃r̵̺͓̲͍̣̻̈́̌͠e̷͖͓͑̑̏̈́̑͘f̶̧̙̻̓̔̇̎͆̽è̷̻̠̥ͅr̸̫͖̘̰͍̣͉̺̐̂̀ṛ̴͛̽̀̆͒̑͠i̴͙̗͇͚͉̞̬͂͜͜ṅ̶̤̟͙̠̜̍̄͜ģ̵̱̻͍̓͌̀͆̀͘͝͝ ̵̮̏̄̾̊̉̿̿̚t̸͖̼̂̑̒̏̍͒̅̚ǒ̷͎̈͋̅͛́ ̸͍̐̌͛̅͛̈́̏̓̀ḥ̸̡͔̖̳̰͔̐̀̋͝á̶̡͖̺̤̗̗̻͔̆̈̑̅̍̅̽ç̶̢̞̯̙̭̮͕̞̘͈̘̉̀͝ͅọ̴͔͓̦͆̆̂̒͒̏͗̾̐͊͘̚l̵̮͕͓̰̫̲͉͍̠͇̩͉̀ͅͅḽ̷̛̝͕͎̦͕̗͇̟̜̼͊̓̄̃̆͛e̴̡̢̮͈̦̙̝̫̠̱̮͕̮͂c̶̠͙̳̹̻̰̄̃̎̆̌̔͆͘͘͜ț̴̡̨̡̡̦̩̭̫͎̊̆̈́̈͛̒̂͐̚ḭ̸̛̗̘̣̾̉̋̓́v̴̗͛̄̈́̏̓ȩ̷̛̝̩̈́l̶̯̂͗̒̇ỵ̸̠͕͑ͅ ̵̢̧̰̠̠͖̳̱̰͈̣͗̿͜b̶̯͉̪̟̙͊̈́̕̕e̶̢̤͙̺̟̪̣̝̥̻̓̇̌͝ę̴̳͇̬̖͖̮̪͚̱̥̉͋̌̄̎͊͘̕n̸̛̼̲̬͈̰̘̙̫̼̰͔̅̃͒͛̇̿͆͌̍̑̈̿͘ forgotten. 
 ## Dragon Deities
 seen as the original creators by many followers of Bahamut in Eranvale
 original creators
@@ -40,7 +32,10 @@ original creators
 - Tiamat
 - Sardior
 ## Others
-- 
+- Phaedra
+- Sune
+- Lolth
+- Eilistraee
 ### Domains
 - Arcana Domain x Or 
 - Balance Domain A
