@@ -132,12 +132,12 @@ Your skill when defending others allows you to exact immediate retribution. When
 # Subclasses
 | File                                                                             |
 | -------------------------------------------------------------------------------- |
-| [[09. DnD-Wiki/Rules/Class Changes/Fighter/Eldritch Knight\|Eldritch Knight]] |
 | [[09. DnD-Wiki/Rules/Class Changes/Fighter/Samurai\|Samurai]]                 |
 | [[09. DnD-Wiki/Rules/Class Changes/Fighter/Rune Knight\|Rune Knight]]         |
-| [[09. DnD-Wiki/Rules/Class Changes/Fighter/Arcane Archer\|Arcane Archer]]     |
+| [[09. DnD-Wiki/Rules/Class Changes/Fighter/Eldritch Knight\|Eldritch Knight]] |
 | [[09. DnD-Wiki/Rules/Class Changes/Fighter/Battle Master\|Battle Master]]     |
 | [[09. DnD-Wiki/Rules/Class Changes/Fighter/Banneret\|Banneret]]               |
+| [[09. DnD-Wiki/Rules/Class Changes/Fighter/Arcane Archer\|Arcane Archer]]     |
 
 { .block-language-dataview}
 
