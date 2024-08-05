@@ -40,7 +40,11 @@ The three Creator Deities laid the foundation of the world, from which all other
 The Genesis is a religion which worships the beginning itself, and strives to preserve the original creation.
 It is a generally very conservative religion, disliking change.
 
-The most common believers are many unicorn congregations
+The most common believers are many unicorn congregations.
+
+>[!infobox]
+>![Holy Symbol of the Genesis.png|250](/img/user/z_Assets/Holy%20Symbol%20of%20the%20Genesis.png)
+> <center>Holy Symbol</center>
 #### The Genesis
 The Genesis is the name by which followers of Genesis refer to Or.
 Depictions of him are strictly forbidden, non-compliance will be strictly punished. 
@@ -84,6 +88,13 @@ It was created to be the protector of the [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods
 
 He was born with the Forest, and only left her when becoming mortal and tainted. 
 In his stead, young unicorns must fulfil their duty to protect once they mature, and venture from their home and guard a forest and all her children. 
+
+##### The Current Eachthighern 
+The title Eachthighern is passed down to a devout bishop who must be 500 years and over of age. A new one is elected whenever the previous one dies. 
+
+The Eachthighern is spiritual leader and seen as direct connection to the Genesis. 
+
+He has absolute say in religious matters. 
 
 #### Forest of Beginnings
 The Forest of Beginnings is the birthing place of all life itself. She is also referred to as the Womb of Life, in which The Genesis planted his seed. 
