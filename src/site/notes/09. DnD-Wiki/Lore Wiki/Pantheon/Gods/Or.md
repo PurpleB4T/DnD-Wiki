@@ -209,8 +209,8 @@ Punishment ranges from repentance and community work all the way to flogging, ta
 ##### The Rite of the Divine Maiden
 >[!infobox] 
 ># Information
->| Info | Info |
->| --- | --- | 
+> | Info | Info |
+> | --- | --- | 
 > **Type** | Cleansing Ritual 
 > **Time** | Early morning hours of the first moon 
 
