@@ -114,6 +114,7 @@ The Divine Maiden once was a mortal woman who was granted eternal freedom by the
 From her flesh the second unicorn was born. It is believed a part of her is watching over every unicorn and believer in the genesis. 
 She is worshipped as a symbol of purity and as a source of guidance in temptation. 
 #### Sins
+
 >[!info]- List of Sins
 Abominable - that which is exceptionally loathsome, hateful, sinful, wicked or vile (the likes of satyrs, mixing of pure with the impure etc.) 
 Addiction 
@@ -265,6 +266,10 @@ The maidens body will be displayed till the next new moon.
 - male familiars are expected to prove their physical prowess before entering this sacred relationship (multi-class into Paladin, or choose pact of Blade Warlock)
 	- it is possible for male familiars to be allowed to marry when they prove themselves loyal; the wife is chosen by their patron
 - female familiars are expected to rid themselves of temptation, by removing both breasts and nipples, which are then burned in a ritual; and to remain pure and abstain from all pleasures of life
+
+>[!infobox]
+>![Temptation.jpeg|250](/img/user/z_Assets/Temptation.jpeg)
+ > <center>Temptation</center>
 ##### Societal Hierarchies
 It is believed that women brought temptation into the world, and are therefore seen as potentially dangerous if not kept in check. 
 
