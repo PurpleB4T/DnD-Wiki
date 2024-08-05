@@ -74,7 +74,7 @@ Druids and Rangers are seen as uncivilised heretics. Those who pray to [[09. DnD
 #### The Eachthighern 
 
 >[!infobox]
->![Eachthighern.jpg|250](/img/user/z_Assets/Eachthighern.jpg)
+>![Eachthighern.jpg|250](/img/user/09.%20DnD-Wiki/z-Assests/Eachthighern.jpg)
 > <center>The Eachthighern</center>
 
 
@@ -95,7 +95,7 @@ This tree is believed to be connected to all live, hence it's other name  the Um
 
 #### The Divine Maiden
 >[!infobox]
->![Divine Maiden.jpeg|250](/img/user/z_Assets/Divine%20Maiden.jpeg)
+>![Divine Maiden.jpeg|250](/img/user/09.%20DnD-Wiki/z-Assests/Divine%20Maiden.jpeg)
  > <center>The Divine Maiden</center>
 
 The Divine Maiden once was a mortal woman who was granted eternal freedom by the Eachthighern. 
@@ -211,7 +211,7 @@ Punishment ranges from repentance and community work all the way to flogging, ta
 ># Information
 >| Info | Info |
 >| --- | --- | 
->**Type** | Cleansing Ritual 
+> **Type** | Cleansing Ritual 
 > **Time** | Early morning hours of the first moon 
 
 This rite is innately tied to the [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Or#Priestesses\|Priestesses]], who are female unicorns which have promised to remain pure and chaste. They take upon the role of cleansing the land and it's people from corruption in this rite.
