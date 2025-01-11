@@ -75,7 +75,7 @@ You know two 1st-level spells of your choice from the sorcerer spell list.
 
 The Spells Known column of the Sorcerer table shows when you learn more sorcerer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
 
-Additionally, **whenever you finish a long rest** or gain a level in this class, you can choose one of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
+Additionally, **whenever you finish a long rest** or gain a level in this class, you can choose up to three of the sorcerer spells you know and replace it with another spell from the sorcerer spell list, which also must be of a level for which you have spell slots.
 
 #### Spellcasting Ability
 Charisma is your spellcasting ability for your sorcerer spells, since the power of your magic relies on your ability to project your will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a sorcerer spell you cast and when making an attack roll with one.
@@ -157,7 +157,6 @@ Additionally, if you did not cast the spell you readied before the start of your
 * **Efficient Spell.** When you cast a spell of 2nd, 3rd, 4th or 5th level, you can spend a number of sorcery points equal to the spell's level to cast it using a spell slot one level lower than the spell's normal level, without changing the effects of the spell.
 * **Overcharged Spell.** When you cast a spell of 1st level or higher, that can be cast at higher levels, you can spend a number of sorcery points equal to the spell's level to increase the casting level by 1.
 * **Translocate Spell.** When you cast a spell, you can expend 2 sorcery points to change the origin of the spell to any space you choose within 60 feet of you.
-* **Sustained Spell.** When you cast a spell that requires concentration while you are already concentrating on another spell, you can choose to maintain concentration on both spells. To do so, you spend 5 sorcery points or a number of sorcery points equal to the spells' combined level, whichever number is higher. When you make a Constitution saving throw to maintain your concentration on two spells, you do so only once for both spells. However, you suffer a penalty to the roll. The penalty equals 5 or the spells' combined level, whichever number is higher. You make a saving throw at the end of each of your turns (DC 10), in addition to those you make when taking damage and those imposed by your DM for certain environmental phenomena.
 * **Widened Spell.** When you cast a spell that has an area effect, you can spend sorcery points equal to the spell's level to increase each of the area's dimensions by half, rounded down to the nearest 5 feet
   (1 sorcery point if the spell is a cantrip).
 
