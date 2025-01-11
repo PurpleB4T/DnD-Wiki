@@ -29,7 +29,7 @@ Starting at 1st level, you can call down the radiant light of the moon on comman
 ### Lunar Boons
 Starting at 6th level, the current phase of your Lunar Embodiment can affect your Metamagic feature. Each Lunar Embodiment phase is associated with certain schools of magic, as shown here:
 
-- **Full Moon.** [Abjuration](http://dnd5e.wikidot.com/spells:abjuration) and [Divination](http://dnd5e.wikidot.com/spells:divination) spells (and dunamancy)
+- **Full Moon.** [Abjuration](http://dnd5e.wikidot.com/spells:abjuration) and [Divination](http://dnd5e.wikidot.com/spells:divination) spells (and [Dunamancy]([https://dnd5e.wikidot.com/spells:dunamancy](https://dnd5e.wikidot.com/spells:dunamancy "https://dnd5e.wikidot.com/spells:dunamancy")))
 - **New Moon.** [enchantment](http://dnd5e.wikidot.com/spells:enchantment) and [Necromancy](http://dnd5e.wikidot.com/spells:necromancy) spells
 - **Crescent Moon.** [illusion](http://dnd5e.wikidot.com/spells:illusion) and [Transmutation](http://dnd5e.wikidot.com/spells:transmutation) spells
 
