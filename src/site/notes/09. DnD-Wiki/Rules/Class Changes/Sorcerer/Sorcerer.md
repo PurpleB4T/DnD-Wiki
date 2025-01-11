@@ -4,28 +4,30 @@
 
 
 
-| Level |	Proficiency  Bonus  |	Features |	Cantrips Known	| Spells  Known	| 1st	| 2nd	| 3rd	| 4th	| 5th	| 6th	| 7th	| 8th	| 9th |
-| :---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |:---: |
-| 1st |	+2 |	Spellcasting, Sorcerous Origin	| 4	| 2	| 2	| -	| -	| -	| -	| -	| -	| -	| - |
-| 2nd |	+2  |	Font of Magic, Spell Catalyst, Special Subclass Spell	| 4	| 3	| 3	| -	| -	| -	| -	| -	| -	| -	| - |
-| 3rd |	+2  |	Metamagic	| 4	| 4	| 4	| 2	| -	| -	| -	| -	| -	| -	| - |
-| 4th |	+2  |	Ability Score Improvement, Sorcerous Versatility (Optional)	| 5	| 5	| 4	| 3	| -	| -	| -	| -	| -	| -	| - |
-| 5th |	+3  |	Magical Guidance (Optional)	| 5	| 6	| 4	| 3	| 2	| -	| -	| -	| -	| -	| - |
-| 6th |	+3  |	Sorcerous Origin feature	| 5	| 7	| 4	| 3	| 3	| -	| -	| -	| -	| -	| - |
-| 7th |	+3  |		| 5	| 8	| 4	| 3	| 3	| 1	| -	| -	| -	| -	| - |
-| 8th |	+3  |	Ability Score Improvement, Sorcerous Versatility (Optional)	| 5	| 9	| 4	| 3	| 3	| 2	| -	| -	| -	| -	| - |
-| 9th |	+4  |		| 5	| 10	| 4	| 3	| 3	| 3	| 1	| -	| -	| -	| - |
-| 10th |	+4  |	Metamagic, Font of Sorcery	| 6	| 11	| 4	| 3	| 3	| 3	| 2	| -	| -	| -	| - |
-| 11th |	+4  |		| 6	| 12	| 4	| 3	| 3	| 3	| 2	| 1	| -	| -	| - |
-| 12th |	+4  |	Ability Score Improvement, Sorcerous Versatility (Optional)	| 6	| 12	| 4	| 3	| 3	| 3	| 2	| 1	| -	| -	| - |
-| 13th |	+5  |		| 6	| 13	| 4	| 3	| 3	| 3	| 2	| 1	| 1	| -	| - |
-| 14th |	+5  |	Sorcerous Origin feature	| 6	| 13	| 4	| 3	| 3	| 3	| 2	| 1	| 1	| -	| - |
-| 15th |	+5  |		| 6	| 14	| 4	| 3	| 3	| 3	| 2	| 1	| 1	| 1	| - |
-| 16th |	+5  |	Ability Score Improvement, Sorcerous Versatility (Optional)	| 6	| 14	| 4	| 3	| 3	| 3	| 2	| 1	| 1	| 1	| - |
-| 17th |	+6  |	Metamagic	| 6	| 15	| 4	| 3	| 3	| 3	| 2	| 1	| 1	| 1	| 1 |
-| 18th |	+6  |	Sorcerous Origin feature	| 6	| 15	| 4	| 3	| 3	| 3	| 3	| 1	| 1	| 1	| 1 |
-| 19th |	+6  |	Ability Score Improvement, Sorcerous Versatility (Optional)	| 6	| 15	| 4	| 3	| 3	| 3	| 3	| 2	| 1	| 1	| 1 |
-| 20th |	+6  |	Trancendent Sorcerer, Metamagic	| 6	| 15	| 4	| 3	| 3	| 3	| 3	| 2	| 2	| 1	| 1 |
+| Level | Proficiency  Bonus |                          Features                           | Cantrips Known | Spells  Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |     |
+| --- | ---------------- | --------------------------------------------------------- | ------------ | ----------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  1st  |         +2         |               Spellcasting, Sorcerous Origin                |       4        |       2       |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |     |
+|  2nd  |         +2         |    Font of Magic, Spell Catalyst, Special Subclass Spell    |       4        |       3       |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |     |
+|  3rd  |         +2         |                          Metamagic                          |       4        |       4       |  4  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |     |
+|  4th  |         +2         | Ability Score Improvement, Sorcerous Versatility (Optional) |       5        |       5       |  4  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |  -  |     |
+|  5th  |         +3         |                 Magical Guidance (Optional)                 |       5        |       6       |  4  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |  -  |     |
+|  6th  |         +3         |                  Sorcerous Origin feature                   |       5        |       7       |  4  |  3  |  3  |  -  |  -  |  -  |  -  |  -  |  -  |     |
+|  7th  |         +3         |                                                             |       5        |       8       |  4  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |  -  |     |
+|  8th  |         +3         | Ability Score Improvement, Sorcerous Versatility (Optional) |       5        |       9       |  4  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |  -  |     |
+|  9th  |         +4         |                                                             |       5        |      10       |  4  |  3  |  3  |  3  |  1  |  -  |  -  |  -  |  -  |     |
+| 10th  |         +4         |                 Metamagic, Font of Sorcery                  |       6        |      11       |  4  |  3  |  3  |  3  |  2  |  -  |  -  |  -  |  -  |     |
+| 11th  |         +4         |                                                             |       6        |      12       |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |     |
+| 12th  |         +4         | Ability Score Improvement, Sorcerous Versatility (Optional) |       6        |      12       |  4  |  3  |  3  |  3  |  2  |  1  |  -  |  -  |  -  |     |
+| 13th  |         +5         |                                                             |       6        |      13       |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |     |
+| 14th  |         +5         |                  Sorcerous Origin feature                   |       6        |      13       |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  -  |  -  |     |
+| 15th  |         +5         |                                                             |       6        |      14       |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |     |
+| 16th  |         +5         | Ability Score Improvement, Sorcerous Versatility (Optional) |       6        |      14       |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  -  |     |
+| 17th  |         +6         |                          Metamagic                          |       6        |      15       |  4  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |  1  |     |
+| 18th  |         +6         |                  Sorcerous Origin feature                   |       6        |      15       |  4  |  3  |  3  |  3  |  3  |  1  |  1  |  1  |  1  |     |
+| 19th  |         +6         | Ability Score Improvement, Sorcerous Versatility (Optional) |       6        |      15       |  4  |  3  |  3  |  3  |  3  |  2  |  1  |  1  |  1  |     |
+| 20th  |         +6         |               Trancendent Sorcerer, Metamagic               |       6        |      15       |  4  |  3  |  3  |  3  |  3  |  2  |  2  |  1  |  1  |     |
+
+
 
 ## Base Class Features
 **Source:** Player's Handbook.
@@ -189,13 +191,13 @@ At 20th level, your control over Metamagic has been honed to the point of master
 * You no longer require food and water. 
 
 ## Subclasses
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Aberrant Mind\|Aberrant Mind]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Wild Magic\|Wild Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Storm Sorcery\|Storm Sorcery]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Shadow Magic\|Shadow Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Lunar Sorcery\|Lunar Sorcery]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Divine Soul\|Divine Soul]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Draconic Bloodline\|Draconic Bloodline]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Lunar Sorcery\|Lunar Sorcery]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Shadow Magic\|Shadow Magic]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Storm Sorcery\|Storm Sorcery]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Wild Magic\|Wild Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Aberrant Mind\|Aberrant Mind]]
 
 { .block-language-dataview}
