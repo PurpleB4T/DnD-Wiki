@@ -41,7 +41,7 @@ As magic flows through your body, it causes physical traits of your dragon ances
 
 Additionally, parts of your skin are covered by a thin sheen of dragon-like scales. When you aren't wearing armor, your AC equals 13 + your Dexterity modifier.
 
-**You gain natural weapons in the form of claws, fangs or other physical manefistations (horns, spikes on tail, etc). You are considered proficient with these weapons. They deal 1d6 slashing/piercing/bludgeoning damage + Char MOD.**
+**You gain natural weapons in the form of claws, fangs or other physical manefistations (horns, spikes on tail, etc). They count as versatile, or you use your Charisma to attack. You are considered proficient with these weapons. They deal 1d6 slashing/piercing/bludgeoning damage + Char MOD.**
 
 ### Draconic Spell
 *(Added 2nd level feature)*
