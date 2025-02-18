@@ -150,8 +150,8 @@ At 20th level, you embody the power of the wilds. Your Strength and Constitution
 | File                                                                                                   |
 | ------------------------------------------------------------------------------------------------------ |
 | [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Zealot\|Path of the Zealot]]               |
-| [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Totem Warrior\|Path of the Totem Warrior]] |
 | [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Storm Herald\|Path of the Storm Herald]]   |
+| [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Totem Warrior\|Path of the Totem Warrior]] |
 | [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Ravager\|Path of the Ravager]]             |
 | [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Berserker\|Path of the Berserker]]         |
 

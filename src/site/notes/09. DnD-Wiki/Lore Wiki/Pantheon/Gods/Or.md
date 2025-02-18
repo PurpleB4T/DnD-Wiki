@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/pantheon/gods/or/","tags":["gods","creator-deity"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/lore-wiki/pantheon/gods/or/","tags":["gods","creator-deity","#Character"]}
 ---
 
 
@@ -7,23 +7,28 @@
 > # Or 
 > ##### (Overgod)
 > ![Placeholder.png](/img/user/z_Assets/07.%20Images/Placeholder.png)
+> 
 > ###### Basic Information
+> 
 > | Info | Info |
->  |---|---|
-> **Title(s)** | The Genesis,Father of Light |
-> **Pantheon** | Efithian Pantheon |
-> **Gender**  | masculine |
+> |---|---|
+> | **Title(s)** | The Genesis,Father of Light |
+> | **Pantheon** | Efithian Pantheon |
+> | **Gender**  | masculine |
+> 
 > ###### Statistics
 > | Info | Info |
->  |---|---|
-> **Alignment** | lawful neutral |
->  **Symbol** | based on interpretation |
-> **Domain(s)** | Life,Light,Tempest,Arcana,Fate |
+> |---|---|
+> | **Alignment** | lawful neutral |
+> | **Symbol** | small candle flame in front of a dark background |
+> | **Domain(s)** | Life,Light,Tempest,Arcana,Fate |
+> 
 > ###### Manifestations
 > | Info | Info |
->  |---|---|
-> **Favoured Animals** | all |
->  **Favoured Colours** | white |
+> |---|---|
+> | **Favoured Animals** | all |
+> | **Favoured Colours** | white |
+
 
 # Or
 

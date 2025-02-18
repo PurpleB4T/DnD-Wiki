@@ -8,7 +8,7 @@
 <br>
 **Motivation.** When creating a character, the most important thing is both an intrinsic motivation as well as a reason for your character to stay with the party. 
 <br>
-**Milestone Leveling.**
+**Milestone Leveling.** We don't use experience for leveling, instead the DM decides based on big events or milestones within the story weather or not characters level up. 
 <br>
 **Alignments.** Alignments are not definitive but mere suggestions as to how to play your character. You can choose alignments, but you don’t have to. 
 <br>
