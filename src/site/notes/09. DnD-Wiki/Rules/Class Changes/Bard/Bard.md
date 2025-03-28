@@ -68,8 +68,8 @@ Additionally, when you or an inspired ally rolls a 1 or a 2 on a bardic inspirat
 | File                                                                                  |
 | ------------------------------------------------------------------------------------- |
 | [[09. DnD-Wiki/Rules/Class Changes/Bard/College of Whispers\|College of Whispers]] |
-| [[09. DnD-Wiki/Rules/Class Changes/Bard/College of Valor\|College of Valor]]       |
 | [[09. DnD-Wiki/Rules/Class Changes/Bard/College of Lore\|College of Lore]]         |
+| [[09. DnD-Wiki/Rules/Class Changes/Bard/College of Valor\|College of Valor]]       |
 
 { .block-language-dataview}
 

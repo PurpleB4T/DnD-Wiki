@@ -1,7 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/spells/expanded-spell-list/"}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/spells/spelllist/","tags":["spell"]}
 ---
-
 
 
 | File                                                                  | School        | Casting Time | Range             | Components | Duration                      | Material Components | Concentration | Ritual | Source   |
@@ -12,4 +11,3 @@
 | [[09. DnD-Wiki/Rules/Spells/Arms of the North\|Arms of the North]] | Transmutation | 1 Action     | 60ft              | V,S,M      | Concentration, up to 1 minute | a drop of Water     | yes           | \-     | Homebrew |
 
 { .block-language-dataview}
-
