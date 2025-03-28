@@ -41,7 +41,7 @@
 - the book is written in a very personal way, instead of a more neutral one typical of "self help books"
 - while personal details are omitted, any mentions of experiences come off as personal, it has an almost diary like quality
 - wild style shifts suggest multiple authors or at least ghost writers
-- dirty language and cuss words are featured in abundance (eg. "when a dickhead wants to shame you for who or what you stick up various holes of yours...")
+- dirty language and cuss words are featured in abundance (eg. "when a dickhead wants to shame you for who or what you offer your various holes...")
 - the last chapter features crude but detailed sketches of the various techniques
 	- writing style wise this chapter is also very crude
 ## Reception

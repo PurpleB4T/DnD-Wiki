@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/misc/features/liguist/","tags":["feat"]}
+{"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/misc/features/linguist/","tags":["feat"]}
 ---
 
 [[09. DnD-Wiki/Rules/Misc/Features/Feats\|Back to Feat Overview]]

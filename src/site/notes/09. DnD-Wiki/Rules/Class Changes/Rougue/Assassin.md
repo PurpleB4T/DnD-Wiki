@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/rougue/assassin/","tags":["subclass","rogue"]}
 ---
 
-[[Rogue\|Back to Rogue]]
+[[09. DnD-Wiki/Rules/Class Changes/Rougue/Rogue\|Back to Rogue]]
 
 **You focus your training on the grim art of death. Those who adhere to this archetype are diverse: hired killers, spies, bounty hunters, and even specially anointed priests trained to exterminate the enemies of their deity. Stealth, poison, and disguise help you eliminate your foes with deadly efficiency.**
 

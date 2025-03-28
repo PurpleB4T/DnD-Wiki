@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/rougue/phantom/","tags":["subclass","rogue"]}
 ---
 
-[[Rogue\|Back to Rogue]]
+[[09. DnD-Wiki/Rules/Class Changes/Rougue/Rogue\|Back to Rogue]]
 
 **Many rogues walk a fine line between life and death, risking their own lives and taking the lives of others. While adventuring on that line, some rogues discover a mystical connection to death itself. These rogues take knowledge from the dead and become immersed in negative energy, eventually becoming like ghosts. Thieves' guilds value them as highly effective information gatherers and spies.**
 

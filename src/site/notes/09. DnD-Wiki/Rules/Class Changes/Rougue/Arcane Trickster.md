@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/rougue/arcane-trickster/","tags":["subclass","rogue"]}
 ---
 
-[[Rogue\|Back to Rogue]]
+[[09. DnD-Wiki/Rules/Class Changes/Rougue/Rogue\|Back to Rogue]]
 
 **Some rogues enhance their fine-honed skills of stealth and agility with magic, learning tricks of enchantment and illusion. These rogues include pickpockets and burglars, but also pranksters, mischief-makers, and a significant number of adventurers.**
 
