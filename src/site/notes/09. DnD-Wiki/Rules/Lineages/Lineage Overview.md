@@ -31,12 +31,12 @@
 | [[09. DnD-Wiki/Rules/Lineages/Kenku\|Kenku]]      |  -                                                                                     |
 | [[09. DnD-Wiki/Rules/Lineages/Kobold\|Kobold]]     | -                                                                                      |
 | [[09. DnD-Wiki/Rules/Lineages/Locathah\|Locathah]]   |  -                                                                                     |
-| [[09. DnD-Wiki/Rules/Lineages/Merfolk\|Merfolk]]    |   -                                                                                    |
+| [[09. DnD-Wiki/Rules/Lineages/Merfolk\|09. DnD-Wiki/Rules/Lineages/Merfolk]]    |   -                                                                                    |
 | [[09. DnD-Wiki/Rules/Lineages/Minotaur\|Minotaur]]   | Ravnica, Theros, Amonkhet                                                              |
 | [[09. DnD-Wiki/Rules/Lineages/Naga\|Naga]]       |    Amonketh6                                                                           |
 | [[09. DnD-Wiki/Rules/Lineages/Orc\|Orc]]        | Base, Ebberon, Exandria, Ixalan                                                        |
 | [[09. DnD-Wiki/Rules/Lineages/Owlin\|Owlin]]      | -                                                                                      |
-| [[09. DnD-Wiki/Rules/Lineages/Satyr\|Satyr]]      | -                                                                                      |
+| [[Satyr 1\|Satyr 1]]      | -                                                                                      |
 | [[09. DnD-Wiki/Rules/Lineages/Shifter\|Shifter]]    | Beasthide11, Longtooth11, Swiftstride11, Wildhunt16                                    |
 | [[09. DnD-Wiki/Rules/Lineages/Tabaxi\|Tabaxi]]     | -                                                                                      |
 | [[09. DnD-Wiki/Rules/Lineages/Tiefling\|Tiefling]]   | Asmodeus Baalzebul, Dispater, Fierna, Glasya, Levistus, Mammon, Mephistopheles, Zariel |

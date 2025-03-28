@@ -32,15 +32,28 @@ Masterwork equipment is gear that grants additional properties besides a +1 to A
 This rule is used to replace the Fall Damage rule of the Basic rules. A Creature falling will take damage according to the following table. Keep in mind, that for every 10ft a creature falls, it takes 1d6 bludgeoning damage. A creature with a flying speed (eg. having wings) will take less damage/ have an easier time reducing the fall damage.
 Falling a creature can make an Acrobatics Saving Throw to halve the taken damage.
 
-| Fall Height | Damage | Acrobatics DC
-| -- | -- | --
-10ft| 1d6 |10
-20ft | 2d6 | 15
-30ft | 3d6 | 20
-40ft | 4d6 | 25
-50ft | 5d6 | 30
-60ft | 6d6 | not possible
-200ft | 20d6 | not possible 
-500ft | 50d6 | not possible 
+| Fall Height | Damage | Acrobatics DC |  
+| ----------- | ------ | ------------- | 
+| 10ft        | 1d6    | 10            |     
+| 20ft        | 2d6    | 15            |     
+| 30ft        | 3d6    | 20            |     
+| 40ft        | 4d6    | 25            |     
+| 50ft        | 5d6    | 30            |     
+| 60ft        | 6d6    | not possible  |     
+| 200ft       | 20d6   | not possible  |  
+| 500ft       | 50d6   | not possible  |    
 
+#### Ritual Casting (WIP)
+This rule replaces base Ritual Casting. 
 
+- Every full caster can ritual cast
+    - They follow the “normal” ritual-casting rules
+- Casters with Ritual-Casting Feature can ritual cast spells without the “ritual”-tag
+- Ritual Caster Feature becomes an open feature -> no prerequisites, just in-chara justification
+- make “Summon Steed” & “Summon Greater Steed” a ritual
+- **Open Questions:**
+    - Should half-casters be able to ritual cast
+    - Which spells are applicable for extended ritual casting (first name that came to mind)
+
+As you can see there is some open questions. 
+I hope to extend on this as we play and think about which spells to exclude/ etc.  For the time being, half casters like Paladins, Rangers and specific subclasses are included in these rules and can ritual cast. 

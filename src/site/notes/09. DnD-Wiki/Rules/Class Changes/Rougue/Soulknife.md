@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/09-dn-d-wiki/rules/class-changes/rougue/soulknife/","tags":["subclass","rogue"]}
 ---
 
-[[Rogue\|Back to Rogue]]
+[[09. DnD-Wiki/Rules/Class Changes/Rougue/Rogue\|Back to Rogue]]
 
 **Most assassins strike with physical weapons, and many burglars and spies use thieves' tools to infiltrate secure locations. In contrast, a Soulknife strikes and infiltrates with the mind, cutting through barriers both physical and psychic. These rogues discover psionic power within themselves and channel it to do their roguish work. They find easy employment as members of thieves' guilds, though they are often mistrusted by rogues who are leery of anyone using strange mind powers to conduct their business. Most governments would also be happy to employ a Soulknife as a spy.**
 

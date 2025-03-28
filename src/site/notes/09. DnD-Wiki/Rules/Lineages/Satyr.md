@@ -17,7 +17,7 @@
 
 # Satyr Lore 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/09-dn-d-wiki/lore-wiki/species/satyr-lore/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/09-dn-d-wiki/lore-wiki/species/satyrs/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -29,14 +29,14 @@
 > # Satyr (`=this.pronouns`)
 > ![Satyrs by Leo.png](/img/user/z_Assets/07.%20Images/Satyrs%20by%20Leo.png)
 > ###### Bio
->  |
-> ---|---|
+> | Info | Info |
+>  |---|---|
 > **Typically Found in** | `=this.found` |
 > **Life Expectancy** | `=this.age` |
 > **Typical Height Range**  | `=this.Height` |
 > ###### Info
->  |
-> ---|---|
+> | Info | Info | 
+>  |---|---|
 > **Alias(es)** | `=this.alias` |
 >  **Languages** | `=this.languages` |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
@@ -48,6 +48,13 @@ TBD
 
 ## Druids
 ### Circle of the tired Dads 
+
+> [!metadata|literature]- Published Works
+> ```dataview
+> TABLE join(aliases, ", ") AS Aliases, quicknote AS Notes
+> FROM #Literature 
+> WHERE econtains(holder, this.file.link)
+> SORT file.name ASC
 
 # Typical racism against Satyrs 
 Generally, they face similar racism to Tielfings. 
