@@ -261,8 +261,8 @@ Additionally, **if you start your turn with no ki points, you immediately regain
 | File                                                                                              |
 | ------------------------------------------------------------------------------------------------- |
 | [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Open Hand\|Way of the Open Hand]]           |
-| [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Sun Soul\|Way of the Sun Soul]]             |
 | [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Shadow\|Way of the Shadow]]                 |
+| [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Sun Soul\|Way of the Sun Soul]]             |
 | [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Kensei\|Way of the Kensei]]                 |
 | [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Drunken Master\|Way of the Drunken Master]] |
 
