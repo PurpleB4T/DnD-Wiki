@@ -134,13 +134,13 @@ If you want to cast either spell at a higher level, you must expend a spell slot
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Necromancy\|School of Necromancy]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Illusion\|School of Illusion]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Evocation\|School of Evocation]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Conjuration\|School of Conjuration]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Enchantment\|School of Enchantment]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Divination\|School of Divination]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Conjuration\|School of Conjuration]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Abjuration\|School of Abjuration]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Order of Scribes\|Order of Scribes]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Abjuration\|School of Abjuration]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Bladesinging\|Bladesinging]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Graviturgy Magic\|Graviturgy Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Chronurgy Magic\|Chronurgy Magic]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Bladesinging\|Bladesinging]]
 
 { .block-language-dataview}
