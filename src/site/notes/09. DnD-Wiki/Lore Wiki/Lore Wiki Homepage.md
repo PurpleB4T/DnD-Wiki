@@ -24,9 +24,8 @@ This is the Lore-Wiki, in which I publish commonly known lore/ facts or people o
 
 { .block-language-dataview}
 ## Countries
-| File                                                        |
-| ----------------------------------------------------------- |
-| [[09. DnD-Wiki/Lore Wiki/Places/l.Eranvale\|l.Eranvale]] |
+| File |
+| ---- |
 
 { .block-language-dataview}
 ## Settlements
