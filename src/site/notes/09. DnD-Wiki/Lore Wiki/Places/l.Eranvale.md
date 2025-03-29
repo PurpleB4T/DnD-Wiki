@@ -29,6 +29,9 @@ TBD
 TBD
 - Fan Guillna
 ## Notes
+>[!info] TeST
+>```dataview
+>TABLE FROM #lore-wiki 
 
 
 leaflet
