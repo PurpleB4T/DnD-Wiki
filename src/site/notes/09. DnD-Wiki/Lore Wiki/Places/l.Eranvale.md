@@ -2,5 +2,5 @@
 > TABLE 
 > from #Eranvale and #lore-wiki and -#country
 
-> [!metadata|organizations]- Organizations
+> [!note|organizations]- Organizations
 > ```
