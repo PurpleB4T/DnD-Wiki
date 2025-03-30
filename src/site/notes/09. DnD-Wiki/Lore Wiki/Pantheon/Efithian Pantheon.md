@@ -24,11 +24,11 @@ Also known as the 3 Creator Deities, who are said to have created the world as w
 They each embody aspects of the world itself. Clerics of all Domains worship these gods, but each god favours certain ones. 
 [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Ayin\|Ayin]] is the Chaos from which the universe was shaped, [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Or\|Or]] is the Beginning and [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Choshek\|Choshek]] is the End. 
 There are tales of a d̴e̵i̷t̵y̸ ̸w̵h̸o̸ ̶w̸a̸l̴k̴s̴ ̶i̷n̵ c̷̫̲͝i̸͈͗r̵̩̩̎c̵̲͖͝l̶͚͗̐e̵̳̽̊s̶͈̭͆̓ ̴̹́̾b̶̫̍͘e̶͚̣̾̇f̶̺͕͝ǒ̴̘r̵̼̬̍e̷͚͔̓̀d̸̫̼̣͔̗̍̿̔̒͂͜i̴̢͈̳͍͈̞͒̅͒͘s̸̢̯͗́̑͒͠å̵̖p̷̩̭̯̎̉̋̽͂p̴̟̳̖̗̄̇̀̇̏ȇ̶͓͙̅ḁ̶̣͉͗̑̔̽͝ŕ̷͉̐i̷̡̻̝̐́́̈́͘n̵̨̦͋͊g̴̛̤̞̝̟͈͍̃̾̋̌͘,̷̜͙̒̅͝ ̵̜̀̍͒ͅb̵̝̆̈͗̈́͊u̷̮̠̭̙̬͌̈́t̶̢̛̩̝̖̗̲̔̅͋̾͋w̶͕͓̬̆̂͐͌̾̂̃͐h̴̜͉̩̺̤̱̠̃̒͂̏̆͘o̵͓͛͑̏̈̋͝ ̴̡̝̐̒̾̋̿͝t̷̝̪͙́ḩ̴̡̜͓̟̦̄̔̓̈́͆͝e̸̬̪͌̉̾̋͌y̴͕̪̪͍̤̞̜̿̔̑̍ ̶̯͒͋̀̿̋̾͘ḁ̸̠̾̇̊́̃ȓ̴̨̛̺̭̯͙̈̌͋̄͠ḛ̸͔͎͙͝ ̷̝͔̬̩̼̞̳̃r̵̺͓̲͍̣̻̈́̌͠e̷͖͓͑̑̏̈́̑͘f̶̧̙̻̓̔̇̎͆̽è̷̻̠̥ͅr̸̫͖̘̰͍̣͉̺̐̂̀ṛ̴͛̽̀̆͒̑͠i̴͙̗͇͚͉̞̬͂͜͜ṅ̶̤̟͙̠̜̍̄͜ģ̵̱̻͍̓͌̀͆̀͘͝͝ ̵̮̏̄̾̊̉̿̿̚t̸͖̼̂̑̒̏̍͒̅̚ǒ̷͎̈͋̅͛́ ̸͍̐̌͛̅͛̈́̏̓̀ḥ̸̡͔̖̳̰͔̐̀̋͝á̶̡͖̺̤̗̗̻͔̆̈̑̅̍̅̽ç̶̢̞̯̙̭̮͕̞̘͈̘̉̀͝ͅọ̴͔͓̦͆̆̂̒͒̏͗̾̐͊͘̚l̵̮͕͓̰̫̲͉͍̠͇̩͉̀ͅͅḽ̷̛̝͕͎̦͕̗͇̟̜̼͊̓̄̃̆͛e̴̡̢̮͈̦̙̝̫̠̱̮͕̮͂c̶̠͙̳̹̻̰̄̃̎̆̌̔͆͘͘͜ț̴̡̨̡̡̦̩̭̫͎̊̆̈́̈͛̒̂͐̚ḭ̸̛̗̘̣̾̉̋̓́v̴̗͛̄̈́̏̓ȩ̷̛̝̩̈́l̶̯̂͗̒̇ỵ̸̠͕͑ͅ ̵̢̧̰̠̠͖̳̱̰͈̣͗̿͜b̶̯͉̪̟̙͊̈́̕̕e̶̢̤͙̺̟̪̣̝̥̻̓̇̌͝ę̴̳͇̬̖͖̮̪͚̱̥̉͋̌̄̎͊͘̕n̸̛̼̲̬͈̰̘̙̫̼̰͔̅̃͒͛̇̿͆͌̍̑̈̿͘ forgotten. 
-## Dragon Deities
+## Draconic Pantheon
 seen as the original creators by many followers of Bahamut in Eranvale
 original creators
 
-- Bahamut: 
+- [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Bahamut\|Bahamut]]
 - Tiamat
 - Sardior
 ## Others
@@ -36,6 +36,7 @@ original creators
 - Sune
 - Lolth
 - Eilistraee
+- [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Thiarra\|Thiarra]]
 ### Domains
 - Arcana Domain x Or 
 - Balance Domain A

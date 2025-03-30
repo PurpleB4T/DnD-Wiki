@@ -5,46 +5,31 @@
 # **l.Eranvale** (test)
 > [!infobox]+
 > # l.Eranvale
-> ![Placeholder.png](/img/user/z_Assets/07.%20Images/Placeholder.png)
+> ![Eranvale cropped.png](/img/user/z_Assets/Files/Eranvale%20cropped.png)
 > ###### Info
->  |
-> ---|---|
-> **Aliases** | `=this.alias` |
-> **Terrain** | `=this.terrain` |
-> **Dominion** | `=this.dominion` |
-> **Location** | `=this.location` |
+> | Info | - |
+> |---|---|
+> | **Aliases** | `=this.alias` |
+> | **Terrain** | Mountains,Planes,Forest |
+> | **Dominion** | `=this.dominion` |
+> | **Location** | [[09. DnD-Wiki/Lore Wiki/Places/l.Efith\|Efith]] |
 
 
 
 ## Overview 
-> TABLE join(aliases, ", ") AS Aliases, join(occupation, ", ") AS "Occupations", join(link(organization), ", ") AS "Organizations"
-> FROM "Campaign"
-> WHERE econtains(location, this.file.link) AND contains(tags, "Character") AND !contains(condition, "Dead")
-> SORT tags DESC, file.name ASC
 
 ## Current Events
-TBD
+### [[09. DnD-Wiki/Lore Wiki/Places/Settlements/Eranvale/l.Astrakhan\|Astrakhan]] Tragedy 
 
 ## History
 TBD
 - Fan Guillna
-## Notes
->[!info] TeST
->```dataview
->TABLE FROM #lore-wiki 
+### Religions
+As is customary in [[09. DnD-Wiki/Lore Wiki/Places/l.Efith\|Efith]], people generally pray to the [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon\|Efithian Pantheon]]. 
+
+[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Bahamut\|Bahamut]] holds great significance in Eranvale, and thus he is a central deity to which people pay their respects. 
 
 
-leaflet
-id: leaflet-map
-image: [[Eranvale cropped.png]]
-height: 500px
-lat: 50
-long: 50
-minZoom: 1
-maxZoom: 10
-defaultZoom: 5
-unit: meters
-scale: 1
-marker: default, 39.983334, -82.983330, [[Note\|Note]]
-darkMode: false
+
+
 

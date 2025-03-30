@@ -18,7 +18,7 @@
 > **Alias(es)** | Metallics |
 >  **Languages** | Draconic |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | [[1. Eranvale Campaign/Deities/Bahamut\|Bahamut]] |
+> **Religion(s)** | [[1. Eranvale Campaign/Deities/Bahamut DM\|Bahamut DM]] |
 
 # **Metallic Dragons**
 > [!info|bg-c-purple]- Overview

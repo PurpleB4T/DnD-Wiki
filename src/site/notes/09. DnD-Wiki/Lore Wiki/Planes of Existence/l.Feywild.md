@@ -13,9 +13,9 @@
 > |--- | --- |
 > | Natives | [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]],  [[09. DnD-Wiki/Lore Wiki/Species/Fey\|Fey]], [[09. DnD-Wiki/Rules/Lineages/Goblin\|Goblin]] |
 > | Shape and size | similar to the Prime Material Plane |
-> Gravity | Normal?
-> Time | Flowing
-> Morphic Trait | Alterable
+> | Gravity | Normal?
+> | Time | Flowing
+> | Morphic Trait | Alterable
 > 
 
 

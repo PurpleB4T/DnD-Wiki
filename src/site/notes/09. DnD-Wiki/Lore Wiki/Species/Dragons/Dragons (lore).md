@@ -18,7 +18,7 @@
 > **Alias(es)** | wyrm |
 >  **Languages** | Draconic,Sylvan (fae dragons) |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | [[1. Eranvale Campaign/Deities/Bahamut\|Bahamut]],[[1. Eranvale Campaign/Deities/Tiamat\|Tiamat]] |
+> **Religion(s)** | [[1. Eranvale Campaign/Deities/Bahamut DM\|Bahamut DM]],[[1. Eranvale Campaign/Deities/Tiamat\|Tiamat]] |
 
 # **Dragons (lore)**
 > [!info|bg-c-purple]- Overview

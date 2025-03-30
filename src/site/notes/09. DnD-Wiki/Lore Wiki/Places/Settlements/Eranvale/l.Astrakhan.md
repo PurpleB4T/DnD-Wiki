@@ -4,3 +4,7 @@
 
 
 see [[Astrakhan DM\|Astrakhan DM]]
+
+## Locations
+### Center of Astrakhan
+#### Statue of Fan Guillna

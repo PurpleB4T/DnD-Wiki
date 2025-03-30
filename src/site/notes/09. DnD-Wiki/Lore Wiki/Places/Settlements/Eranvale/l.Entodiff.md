@@ -3,3 +3,6 @@
 ---
 
 see [[Entodiff DM\|Entodiff DM]]
+
+## Locations
+### Free Docks
