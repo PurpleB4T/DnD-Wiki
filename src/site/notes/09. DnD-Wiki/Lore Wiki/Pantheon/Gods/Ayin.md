@@ -8,19 +8,19 @@
 > ##### (Overgod)
 > ![Placeholder.png](/img/user/z_Assets/07.%20Images/Placeholder.png)
 > ###### Basic Information
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Title(s)** | Yam of the Primordial Chaos,Prime Chaos |
 > **Pantheon** | Efithian Pantheon |
 > **Gender**  | neutral |
 > ###### Statistics
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Alignment** | chaotic neutral |
 >  **Symbol** | changes based on interpretation |
-> **Domain(s)** | War,Peace,Balance,Nature,Chaos |
+> **Domain(s)** | War,Peace,Knowledge,Nature,Chaos |
 > ###### Manifestations
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Favoured Animals** | all |
 >  **Favoured Colours** | non |
@@ -28,6 +28,7 @@
 # Ayin
 
 ## Description
+Associated with space, stars etc. 
 
 ## History 
 

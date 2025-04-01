@@ -6,28 +6,28 @@
 > [!infobox]
 > # Choshek 
 > ##### (Overgod)
-> ![Placeholder.png](/img/user/z_Assets/07.%20Images/Placeholder.png)
+> ![Choshek.png](/img/user/z_Assets/Choshek.png)
 > ###### Basic Information
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Title(s)** | The Night,Lady Euridice |
 > **Pantheon** | Efithian Pantheon |
 > **Gender**  | feminine |
 > ###### Statistics
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Alignment** | true neutral |
 >  **Symbol** | based on interpretation |
 > **Domain(s)** | Death,Forge,Justice,Trickery,Twilight |
 > ###### Manifestations
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Favoured Animals** | non |
 >  **Favoured Colours** | all |
 
 
 # Choshek
-
+Associated with the moon, especially the new moon
 ## Description
 
 ## History 

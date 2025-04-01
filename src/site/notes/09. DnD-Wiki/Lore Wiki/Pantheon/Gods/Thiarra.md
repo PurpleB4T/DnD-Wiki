@@ -5,14 +5,14 @@
 
 > [!infobox]
 > # Thiarra 
-> ##### (Intermediate Deity)
+> ##### (Lesser Deity)
 > ![Placeholder.png](/img/user/z_Assets/07.%20Images/Placeholder.png)
 > 
 > ###### Basic Information
 > 
 > | Info | Info |
 > |---|---|
-> | **Title(s)** | The Greate Sea |
+> | **Title(s)** | The Eye of the Storm |
 > | **Pantheon** | Efithian Pantheon |
 > | **Gender**  | feminine |
 > 
@@ -20,7 +20,7 @@
 > | Info | Info |
 > |---|---|
 > | **Alignment** | chaotic neutral |
-> | **Symbol** | A spiral nautilus shell with glowing runes inside, said to carry the whispers of the ocean depths. |
+> | **Symbol** | A spiral nautilus shell with glowing runes inside |
 > | **Domain(s)** | Water,Tempest,Knowledge |
 > 
 > ###### Manifestations
@@ -33,7 +33,7 @@
 # Thiarra
 
 ## Description
-Thiarra is the personification of the great Eranvale Sea, they are worshiped by all folk relying on safe passage on the ocean and the many rivers ending in it.
+Thiarra is the personification of the Eye of the Storm, she is worshiped by all folk relying on safe passage on the ocean and the many rivers ending in it.
 ### Holy Symbol - Shell of Echoes
 A spiral nautilus shell with glowing runes inside, said to carry the whispers of the ocean depths.
 

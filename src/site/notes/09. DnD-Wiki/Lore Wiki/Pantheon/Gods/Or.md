@@ -21,7 +21,7 @@
 > |---|---|
 > | **Alignment** | lawful neutral |
 > | **Symbol** | small candle flame in front of a dark background |
-> | **Domain(s)** | Life,Light,Tempest,Arcana,Fate |
+> | **Domain(s)** | Life,Light,Tempest,Arcana,Order |
 > 
 > ###### Manifestations
 > | Info | Info |
@@ -31,6 +31,7 @@
 
 
 # Or
+Associated with the Sun
 
 ## Description
  Or is the Overgod responsible for creating the seeds of life. He is considered by many to be the most powerful of the [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#Overgods\|Overgods]] in the [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon\|Efithian Pantheon]]. 
@@ -228,7 +229,7 @@ Punishment ranges from repentance and community work all the way to flogging, ta
 
 > [!infobox]
 > ###### Information
-> | Info | Info |
+>  | Info | Info |
 >  |---|---|
 > **Type** | Cleansing Ritual |
 > **Time** | Early morning hours of the first moon |

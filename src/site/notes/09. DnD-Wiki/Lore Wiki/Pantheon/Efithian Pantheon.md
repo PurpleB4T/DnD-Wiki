@@ -12,9 +12,9 @@
 >[!god]+ Creator Deities
 > | File                                                                     | Titles                                   | Pantheon          | Gender    | Alignment       | Symbol                                           | Favoured Domains                          | Favoured Animals | Favoured Colours | Power Level |
 > | ------------------------------------------------------------------------ | ---------------------------------------- | ----------------- | --------- | --------------- | ------------------------------------------------ | ----------------------------------------- | ---------------- | ---------------- | ----------- |
-> | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Ayin\|Ayin]]                   | Yam of the Primordial Chaos, Prime Chaos | Efithian Pantheon | neutral   | chaotic neutral | changes based on interpretation                  | War, Peace, Balance, Nature, Chaos        | all              | non              | Overgod     |
+> | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Ayin\|Ayin]]                   | Yam of the Primordial Chaos, Prime Chaos | Efithian Pantheon | neutral   | chaotic neutral | changes based on interpretation                  | War, Peace, Knowledge, Nature, Chaos      | all              | non              | Overgod     |
 > | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Choshek\|Choshek]]             | The Night, Lady Euridice                 | Efithian Pantheon | feminine  | true neutral    | based on interpretation                          | Death, Forge, Justice, Trickery, Twilight | non              | all              | Overgod     |
-> | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Or\|Or]]                       | The Genesis, Father of Light             | Efithian Pantheon | masculine | lawful neutral  | small candle flame in front of a dark background | Life, Light, Tempest, Arcana, Fate        | all              | white            | Overgod     |
+> | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Or\|Or]]                       | The Genesis, Father of Light             | Efithian Pantheon | masculine | lawful neutral  | small candle flame in front of a dark background | Life, Light, Tempest, Arcana, Order       | all              | white            | Overgod     |
 > | [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Unknown Error\|Unknown Error]] | Not Found                                | Not Found         | Not Found | Not Found       | Not Found                                        | Not Found                                 | Not Found        | Not Found        | Not Found   |
 > 
 { .block-language-dataview}
@@ -31,12 +31,221 @@ original creators
 - [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Bahamut\|Bahamut]]
 - Tiamat
 - Sardior
-## Others
-- Phaedra
-- Sune
-- Lolth
-- Eilistraee
-- [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Thiarra\|Thiarra]]
+## Humanoid (Human) Pantheons
+
+### Greater Deities
+- **Nebulon:** Heavens/ Sky (n) 
+	- *Domains*:
+		- Light
+		- Tempest
+		- Twilight
+- **Gaia:** Land/Nature (f)
+	- *Domains*:
+		- Peace
+		- Nature
+		- Chaos
+	- "From her lap, all life springs"
+- **Oroubor:** Life/Death (n)
+	- *Domains:*
+		- Life
+		- Death
+		- Knowledge
+	- "The inescapable Cycle one seeks to understand"
+- **Thaumlyth:** Magic (n)
+	- *Domains:*
+		- Arcana
+		- Trickery
+		- Order
+	- "The one who brought order to the chaos and shaped the ever-flowing river of magic."
+- **Brigantur:** Nurture (as in what living things create) (m)
+	- *Domains:*
+		- Forge
+		- War
+		- Justice
+	- "His creation will be your destruction"
+		- the microcosm of people, their creations, destruction, wars and struggle for more
+		- the struggle of humanity (as in people)
+### Intermediate Deities
+
+- **Raethon:** Light (n)
+	- "The many lights of creation"
+	- *Symbol:*
+- **Zepharoth:** Tempest (f)
+	- "She who's winds never stop"
+	- *Symbol:*
+- **Umbrael:** Twilight (m)
+	- "The glowing dark"
+	- *Symbol:*
+
+---
+
+- **Halkyon:** Peace (m)
+	- "The Still Song"
+	- *Symbol:*
+- **Cern:** Nature (n)
+	- ""
+	- *Symbol:* A chimera with tree like horns
+- **Tez:** Chaos (f)
+	- "Her who's words cannot be tamed."
+	- *Symbol:*
+
+---
+
+- **Esharon:** Death (m)
+	- "The Gentle Embrace of the Final Blade"
+	- *Symbol:*
+- **Velthara:** Life (f)
+	- "The unfolding Rose"
+	- *Symbol:* Two hands opening around a rose
+- **Thalassophron:** Knowledge (n)
+	- "The Ocean of Thought"
+	- *Symbol:* 
+
+----
+
+- **Ignivara:** Arcana (n)
+	- "The Flame of the Arcane"
+	- *Symbol:* Purple Flame
+- **Velthara:** Trickery (f)
+	- "The Whispers of Illusion"
+	- *Symbol:* "A Woman's smile beaneath a veil"
+- **Ashavan:** Order (m)
+	- "The Celestial Mandate"
+	- *Symbol:*
+ 
+---
+  
+- **The Unseen Spear:** War (f)
+	- *Symbol:* Furious Woman holding up spear (like french revolution inspired)
+	- ""
+- **Ferrumvex:** Forge (m)
+	- ""
+	- *Symbol:* Molten metal pouring from a crucible
+- **Dikai** Justice (n)
+	- *Symbol:* Two Hands grasping each others wrists
+
+### Lesser Deities
+Each Domain houses three gods, each representing an aspect of their respective Domain
+- **War**
+	- Destruction and Transformation (f) 
+		- Change, Ruin, Rebirth
+	- Leadership and Tactics (n)
+		- Discipline, Tactics
+	- Conflict (m)
+		- Violence, Strife
+- **Peace**
+	- **Antanaklasi:** Tranquillity (n)
+		- *Aspects:*
+			- Serenity, Stillness and Reflection
+		- *Symbol:*
+	- **Pak:** Message/ Destination (m)
+		- *Aspects:*
+			- Return/ Search/ Reunion 
+			- Post/ Letters/ Delivery
+		- *Symbol:* Post Horn
+		- "They say that deep within the all-encompassing roots of the World Tree, in a hollow between space and time, a deity burrows. How long he has lived there is a mystery perhaps only the World Tree remembers. Once mortal, now eternal, Pak will exist as long as there are people with a message to deliver."
+		- *Credits to Leo*
+	- **Vesh:** Harmony (n)
+		- Coexistence, Stability, Understanding
+- **Nature**
+	- Wildfire (f)
+		- Change, desruction, rebirth
+	- Resilience, Preservance (m)
+		- Evolution, Adaptation, Strength
+	- Unity (Interconnection) (n)
+		- Symbiosis, Harmony
+- Chaos
+	- Disorder, Instability (m)
+		- Wildness
+	- Uncontrolled Force (f)
+		- Impulse, untamed
+	- Paradox (n)
+		- Contradiction. Ambiguity
+- Death
+	- Passage (f)
+		- Afterlife
+	- Judgement (m)
+		- Fate's Hand
+	- Rebirth (n)
+		- Transformation
+- Forge
+	- Craftsmanship (f)
+		- Artistry, Invention
+	- Legacy (m)
+		- Inheritance, Heritage
+	- Determination (n)
+		- Drive
+- Justice
+	- Equity (Fairness & Impartiality (n))
+		- Balance, Righteousness, Impartiality
+	- Retribution (Accountability & Consequences) (m) 
+		- Punishment, Responsibility, Lawfulness
+	- [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Phaedra\|Phaedra]] - Protection and Restoration (f)
+		- *Aspects:*
+			- heal, restore and bring balance
+			- Mercy, Redemption, Reconciliation 
+		- *Credits to Amelie*
+- Trickery
+	- Deception and Illusion (m)
+		- Lies, Manipulation
+	- Wit (f)
+		- Intelligence
+	- Foolery (n)
+		- Absurdity, Riducule
+- Twilight
+	- Opposites - potential Elistraee replacement (f)
+		- Balance
+	- Gateway -> "The Gamemaster" idea (m)
+		- the bridge between two --> Gateway
+		- Passing between
+	- Oracle (n)
+		- Divination, Spirits
+- Life
+	- Pleasures (n)
+		- spiritual and physical pleasures
+		- joy, love
+	- Survival (m)
+		- Hardship, preserverance
+	- Continuity (f)
+		- Cycles, Flow
+- Light
+	- Purity & Purification (n)
+		- spiritual cleansing, washing
+		- untainted
+		- *Symbol:* Burning Coal
+	- Illumination (f)
+		- Revelation, Truth
+	- Guidance (m)
+		- Hope, Direction
+- Arcana
+	- The hidden Syntax of reality (more a concept worshipped as god rather than god, but behave) (n)
+		- Symbols, Sigils, shape of existence and how to manipulate it
+	- The Flow of Magic (untamed) (m)
+	- The Tamed (f)
+- Order
+	- Structure (f)
+	- Stability (m)
+		- Security
+	- Enforcement (n)
+- Knowledge
+	- Discovery (f)
+		- Wonder, Forward
+	- Collective Memory (n)
+		- Shared Knowledge, constant change
+	- Preservation (m)
+		- Conservation
+-  Tempest
+	- Fury (m)
+		- Wrath, Destruction, Anger, Pained
+	- Winds N
+		- Winds of the Storm
+	- Eye of the Storm - [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Thiarra\|Thiarra]] (f)
+		- Calm, Safety
+
+## Other Pantheons
+- Lolth - Trickery, War
+- Eilistraee - Light, Life, Nature
+- - Sune - Life, Light
 ### Domains
 - Arcana Domain x Or 
 - Balance Domain A
