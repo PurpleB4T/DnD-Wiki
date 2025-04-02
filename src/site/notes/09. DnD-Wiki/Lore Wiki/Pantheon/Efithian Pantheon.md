@@ -57,7 +57,7 @@ original creators
 		- Trickery
 		- Order
 	- "The one who brought order to the chaos and shaped the ever-flowing river of magic."
-- **Brigantur:** Nurture (as in what living things create) (m)
+- **Brigantur:** Nurture (as in what living things create) (m) - The God of People 
 	- *Domains:*
 		- Forge
 		- War
@@ -126,19 +126,43 @@ original creators
 
 ### Lesser Deities
 Each Domain houses three gods, each representing an aspect of their respective Domain
-- **War**
-	- Destruction and Transformation (f) 
-		- Change, Ruin, Rebirth
-	- Leadership and Tactics (n)
-		- Discipline, Tactics
-	- Conflict (m)
-		- Violence, Strife
+
+
+- **Light**
+	- **Luthior:** Purity & Purification (n)
+		- *Aspects:*
+			- spiritual cleansing, washing
+			- untainted
+		- *Symbol:* Burning Coal
+	- Illumination (f)
+		- Revelation, Truth
+	- Guidance (m)
+		- Hope, Direction
+- **Tempest**
+	- Fury (m)
+		- Wrath, Destruction, Anger, Pained
+	- Winds N
+		- Winds of the Storm
+	-  **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Thiarra\|Thiarra]]:** Eye of the Storm  (f)
+		- *Aspects:*
+			- Calm, Safety
+- **Twilight**
+	- Opposites - potential Elistraee replacement (f)
+		- Balance
+	- Gateway -> "The Gamemaster" idea (m)
+		- the bridge between two --> Gateway
+		- Passing between
+	- Oracle (n)
+		- Divination, Spirits
+
+---
+
 - **Peace**
-	- **Antanaklasi:** Tranquillity (n)
+	- **Antanaklasi:** Tranquillity (f)
 		- *Aspects:*
 			- Serenity, Stillness and Reflection
 		- *Symbol:*
-	- **Pak:** Message/ Destination (m)
+	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Pak\|Pak]]:** Message/ Destination (m)
 		- *Aspects:*
 			- Return/ Search/ Reunion 
 			- Post/ Letters/ Delivery
@@ -146,28 +170,122 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- "They say that deep within the all-encompassing roots of the World Tree, in a hollow between space and time, a deity burrows. How long he has lived there is a mystery perhaps only the World Tree remembers. Once mortal, now eternal, Pak will exist as long as there are people with a message to deliver."
 		- *Credits to Leo*
 	- **Vesh:** Harmony (n)
-		- Coexistence, Stability, Understanding
+	 
+{ #Vesh}
+
+		- *Aspects:* 
+			- Coexistence
+			- Stability
+			- Understanding
+		- "The Peacebringer"
 - **Nature**
 	- Wildfire (f)
-		- Change, desruction, rebirth
+		- *Aspects:*
+			- Change
+			- Desruction
+			- Rebirth
 	- Resilience, Preservance (m)
-		- Evolution, Adaptation, Strength
+		- *Aspects:*
+			- Evolution
+			- Adaptation
+			- Strength
 	- Unity (Interconnection) (n)
-		- Symbiosis, Harmony
-- Chaos
+		- *Aspects:*
+			- Symbiosis
+			- the Giving and Taking
+		- closely connected with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Vesh\|Vesh]] 
+-  **Chaos**
 	- Disorder, Instability (m)
 		- Wildness
 	- Uncontrolled Force (f)
 		- Impulse, untamed
 	- Paradox (n)
 		- Contradiction. Ambiguity
-- Death
+
+---
+- **Death**
 	- Passage (f)
-		- Afterlife
+		- *Aspects*
+			- Afterlife
+			- Journey
+			- Transition
 	- Judgement (m)
-		- Fate's Hand
+		- *Aspects:*
+			- Fate
+			- Unification
+			- Absolution
+		- *Symbol:*
+			- Trumpet
 	- Rebirth (n)
-		- Transformation
+		- *Aspects:*
+			- Transformation
+			- Change
+- **Life**
+	- Pleasures (n) (potential Sune and Freya)
+		- *Aspects:*
+			- Spiritual and physical pleasures
+			- Joy
+			- Love
+		- sometimes depicted as a satyr, sometimes as a dryad
+	- Survival (m)
+		- *Aspects:*
+			- Hardship
+			- Perseverance
+	- Continuity (f)
+		- *Aspects:*
+			- Cycles
+			- Flow
+- **Knowledge**
+	- Discovery (f)
+		- *Aspects:*
+			- Wonder
+			- Moving forward
+	- Collective Memory (n)
+		- *Aspects*
+			- Shared Knowledge
+			- constant change
+			- teaching
+	- Preservation (m)
+		- *Aspects:*
+			- Conservation
+			- Books 
+			- Bards
+
+--- 
+
+- **Arcana**
+	- The hidden Syntax of reality (more a concept worshipped as god rather than god, but behave) (n)
+		- *Aspects:*
+			- Understanding
+			- Closely alligned with Discovery
+		- Symbols, Sigils, shape of existence and how to manipulate it
+	- The Flow of Magic (untamed) (m)
+	- The Tamed (f)
+- **Trickery**
+	- Deception and Illusion (m)
+		- Lies, Manipulation
+	- Wit (f)
+		- Intelligence
+	- **Tom:** Foolery (n)
+		- Absurdity, Riducule
+- **Order**
+	- Structure (f)
+	- Stability (m)
+		- Security
+	- Enforcement (n)
+
+---
+
+
+- **War**
+	- **Zephorya:** Destruction and Transformation (f) 
+		- Change, Ruin, Rebirth
+		- potential Lolth replacement (maybe known as Lolth to drow)
+		- chaotic good and chaotic evil
+	- Leadership and Tactics (n)
+		- Discipline, Tactics
+	- Conflict (m)
+		- Violence, Strife
 - Forge
 	- Craftsmanship (f)
 		- Artistry, Invention
@@ -180,67 +298,18 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- Balance, Righteousness, Impartiality
 	- Retribution (Accountability & Consequences) (m) 
 		- Punishment, Responsibility, Lawfulness
-	- [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Phaedra\|Phaedra]] - Protection and Restoration (f)
+	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Phaedra\|Phaedra]]** - Protection and Restoration (f)
 		- *Aspects:*
 			- heal, restore and bring balance
 			- Mercy, Redemption, Reconciliation 
 		- *Credits to Amelie*
-- Trickery
-	- Deception and Illusion (m)
-		- Lies, Manipulation
-	- Wit (f)
-		- Intelligence
-	- Foolery (n)
-		- Absurdity, Riducule
-- Twilight
-	- Opposites - potential Elistraee replacement (f)
-		- Balance
-	- Gateway -> "The Gamemaster" idea (m)
-		- the bridge between two --> Gateway
-		- Passing between
-	- Oracle (n)
-		- Divination, Spirits
-- Life
-	- Pleasures (n)
-		- spiritual and physical pleasures
-		- joy, love
-	- Survival (m)
-		- Hardship, preserverance
-	- Continuity (f)
-		- Cycles, Flow
-- Light
-	- Purity & Purification (n)
-		- spiritual cleansing, washing
-		- untainted
-		- *Symbol:* Burning Coal
-	- Illumination (f)
-		- Revelation, Truth
-	- Guidance (m)
-		- Hope, Direction
-- Arcana
-	- The hidden Syntax of reality (more a concept worshipped as god rather than god, but behave) (n)
-		- Symbols, Sigils, shape of existence and how to manipulate it
-	- The Flow of Magic (untamed) (m)
-	- The Tamed (f)
-- Order
-	- Structure (f)
-	- Stability (m)
-		- Security
-	- Enforcement (n)
-- Knowledge
-	- Discovery (f)
-		- Wonder, Forward
-	- Collective Memory (n)
-		- Shared Knowledge, constant change
-	- Preservation (m)
-		- Conservation
--  Tempest
-	- Fury (m)
-		- Wrath, Destruction, Anger, Pained
-	- Winds N
-		- Winds of the Storm
-	- Eye of the Storm - [[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Thiarra\|Thiarra]] (f)
-		- Calm, Safety
+
+
+
+
+
+
+-  
 
 ## Other Pantheons
 - Lolth - Trickery, War

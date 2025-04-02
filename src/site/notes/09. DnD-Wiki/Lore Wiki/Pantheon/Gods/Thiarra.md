@@ -21,7 +21,7 @@
 > |---|---|
 > | **Alignment** | chaotic neutral |
 > | **Symbol** | A spiral nautilus shell with glowing runes inside |
-> | **Domain(s)** | Water,Tempest,Knowledge |
+> | **Domain(s)** | Tempest |
 > 
 > ###### Manifestations
 > | Info | Info |
