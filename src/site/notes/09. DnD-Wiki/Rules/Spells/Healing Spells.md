@@ -3,7 +3,6 @@
 ---
 
 
-# Healing Spells
 5.5 changed Healing spells
 
 Healing Spells now count as abjuration??? 
@@ -148,4 +147,4 @@ You touch a creature and stimulate its natural healing ability. The target regai
 
 The target’s severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.
 
-Change: we kept the old one, for fun times no saying goodbye to limbs, yay 
+Change: we kept the old one, for fun times no saying goodbye to limbs, yay  

@@ -38,6 +38,11 @@ Phaedra remains in her human form, of a 2 meter tall, masked warrior woman. Seve
 ### Aspects
 Phaedra is a goddess of *Protection*, under the [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Justice\|Justice Domain]]. Other aspects of her divine rule include *Mercy*, *Redemption*, *Reconciliation*, and *Restoration*
 ## History 
+### The ideal
+When humanity was born, with it came war and with it the want to return to peace.  
+But as humanity struggled for survival, the need for justice was born. As humanity struggled they (as in humans) wished for Peace, for Justice. From this wish the ideal of Protection was born, envisioning a world restored to peace. A groups want for Justice, created the need for Equity. For treating all without bias (impartially) enables all to live in Harmony (balance). As society formed they started to belief. Their belief in justice led to the enactment of rules and compromises as well as Retribution for those not willing to follow.
+
+### Phaedra - The Face
 
 The Minotaur Asterius (Phaedra’s half-brother) grew up to be violent and developed a craving for human flesh. King Minos (Phaedra’s father) ordered an inescapable labyrinth to be built and put the Minotaur inside. 
 
@@ -52,14 +57,17 @@ After a few years had passed, Theseus (greek “hero” from Athens) set out to 
 Theseus went into the labyrinth to find Phaedra and Asterius fighting. Phaedra begged Theseus not to kill the Minotaur but he didn’t listen. After years of fighting, Phaedra didn’t have the strength to stop him anymore and had to watch as he slayed her brother. Theseus left the labyrinth again together with the Athenians and got all the glory for saving them. Stricken with grief and anguish, Phaedra was about to take her own life when [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Dikai\|The God of Justice]] intervened and granted her godhood as an acknowledgement of her deeds.
 
 ## Religions
-### [[09. DnD-Wiki/Lore Wiki/Places/l.Eranvale\|Eranvale]]
+### Worship of Phaedra
+#### [[09. DnD-Wiki/Lore Wiki/Places/l.Eranvale\|Eranvale]]
 - worshipped by common people who cannot fend for themselves
 
 >[!infobox]
 >![Phandrea Symbol.png|250](/img/user/z_Assets/Files/Phandrea%20Symbol.png)
 > <center>Holy Symbol</center>
-####  The Bearing - Temple in Entodiff
+#####  The Bearing - Temple in Entodiff
 - temple in Entodiff
 - main temple for the followers in Eranvale
-##### Notable Members
+###### Notable Members
 - [[09. DnD-Wiki/Lore Wiki/Parties/Characters/w.Astra\|Astra]]: Aasimar of Phaedra
+
+### The Old Faith

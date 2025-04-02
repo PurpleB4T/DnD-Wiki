@@ -154,7 +154,8 @@ Please note this is currently out of date as we're switching the Barbarian to th
 
 { .block-language-dataview}
 
-
+#### Spell Changes
+[[09. DnD-Wiki/Rules/Spells/Healing Spells\|Healing Spells]]: 2024 buffed healing spells by a good bit, making them a lot more viable
 ## Part 2 - Playing the Game
 - [[09. DnD-Wiki/Rules/Misc/Features/Feats\|Feats]]:  [[09. DnD-Wiki/Rules/Misc/Features/Student of Philosophy\|new feat]] added in Feb 2025, potentially more to come (Martial Feats)
 - [[09. DnD-Wiki/Rules/Misc/In Game Rules\|In Game Rules]]: added new Ritual Casting Rules

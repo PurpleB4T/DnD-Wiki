@@ -47,9 +47,7 @@
 They possess no physical body and no avatars, for their form is simply a floating veil. 
 ## History 
 When humanity was born, with it came war and with it the want to return to peace.  
-But as humanity struggled for survival, the need for justice was born. 
-
-Veylith is the *Want for Justice* 
+But as humanity struggled for survival, the need for justice was born. As humanity struggled they (as in humans) wished for Peace, for Justice. From this wish the ideal of Protection was born, envisioning a world restored to peace. A groups want for Justice, created the need for Equity. For treating all without bias (impartially) enables all to live in Harmony (balance). As society formed they started to belief. Their belief in justice led to the enactment of rules and compromises as well as Retribution for those not willing to follow.
 
 ## Religions
 Most of their Shrines are very different from one another, more so influenced by the cultures and understanding of those who worship them. 
