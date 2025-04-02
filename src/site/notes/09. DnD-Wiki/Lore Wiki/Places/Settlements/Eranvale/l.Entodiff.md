@@ -4,5 +4,20 @@
 
 see [[Entodiff DM\|Entodiff DM]]
 
+![entodiff.png](/img/user/z_Assets/entodiff.png)
 ## Locations
 ### Free Docks
+### Western Docks
+
+### The Chicken Market
+### Cotton Hill
+### Fenrise Gardens
+### Old Town
+### Spirit Docks
+### Great Pass
+### Pearl Arch
+### Clear Square
+
+### West Slums
+### Stone Heath
+### Stonebark Mile

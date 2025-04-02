@@ -139,7 +139,9 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- *Symbol:* Burning Coal
 	- Illumination (f)
 		- Revelation, Truth
-	- Guidance (m)
+	- **Elpsis:** Guidance (m)
+{ #Guidance}
+
 		- Hope, Direction
 - **Tempest**
 	- Fury (m)
@@ -172,8 +174,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- *Symbol:* Post Horn
 		- "They say that deep within the all-encompassing roots of the World Tree, in a hollow between space and time, a deity burrows. How long he has lived there is a mystery perhaps only the World Tree remembers. Once mortal, now eternal, Pak will exist as long as there are people with a message to deliver."
 		- *Credits to Leo*
-	- **Vesh:** Harmony (n)
-	 
+	- **Vesh:** Harmony (n) 
 { #Vesh}
 
 		- *Aspects:* 
@@ -192,11 +193,14 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- Evolution
 			- Adaptation
 			- Strength
-	- Unity (Interconnection) (n)
+			- Cultivation
+	- **Henosis:** Unity (Interconnection) (n)
+{ #Unity}
+
 		- *Aspects:*
 			- Symbiosis
 			- the Giving and Taking
-		- closely connected with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Vesh\|Vesh]] 
+		- closely connected with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Vesh\|Vesh]], [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Memory\|Anamesis]], [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^963344\|Veylith]], [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Guidance\|Elpsis]] 
 -  **Chaos**
 	- Disorder, Instability (m)
 		- Wildness
@@ -212,8 +216,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- Afterlife
 			- Journey
 			- Transition
-	- **Vero** Judgement (m)
-	 
+	- **Vero** Judgement (m) 
 { #judgementt}
 
 		- *Aspects:*
@@ -246,7 +249,9 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- *Aspects:*
 			- Wonder
 			- Moving forward
-	- Collective Memory (n)
+	- **Anamnesis:** Collective Memory (n)
+{ #Memory}
+
 		- *Aspects*
 			- Shared Knowledge
 			- constant change
@@ -278,8 +283,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 	- Structure (f)
 	- Stability (m)
 		- Security
-	- **Exarch:** Enforcement (n)
-	^Enforcement
+	- **Exarch:** Enforcement (n)^Enforcement
 		- *Aspects:* 
 			- the end of war
 			- upholding judgement
@@ -297,8 +301,13 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- chaotic good and chaotic evil
 	- Leadership and Tactics (n)
 		- Discipline, Tactics
-	- Conflict (m)
-		- Violence, Strife
+	- **Sida:** Conflict (m)
+{ #Conflict}
+
+		- *Aspects:*
+			- Violence
+			- Strife
+		- in contrast to Veylith, many faces
 - *Forge*
 	- Craftsmanship (f)
 		- Artistry, Invention
@@ -308,19 +317,20 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- commerce
 		- wit
 		- closely alligned with knowledge deities
-- *Justice*
- 
+- *Justice* 
 { #Justice}
 
 	- **Veylith:** Equity (Fairness & Impartiality (n))
+{ #963344}
+
 		- *Aspects:*
 			- Balance
 			- Righteousness
 			- Impartiality
 		- worshipped by many [[09. DnD-Wiki/Rules/Lineages/Tiefling\|Tieflings]], [[09. DnD-Wiki/Rules/Lineages/Elf#Drow\|Drow]] and other disadvantaged people
-		- *Symbol:* A Stone Face without eyes
-	- **Dravos:** Retribution (Accountability & Consequences) (m) 
-	 
+		- *Symbol:* A floating Veil
+		- Want for Justice (A group wants for justice)
+	- **Dravos:** Retribution (Accountability & Consequences) (m)
 { #Retribution}
 
 		- *Aspects:*
@@ -328,13 +338,17 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- Responsibility
 			- Lawfulness
 		- Closely aligned with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Enforcement\|Exarch]]
+		- Believe of Justice (System believes in Justice)
 	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Phaedra\|Phaedra]]** - Protection and Restoration (f)
+{ #4b14a6}
+
 		- *Aspects:*
 			- healing, restoration and bringing balance
 			- Mercy
 			- Redemption
 			- Reconciliation 
 		- *Symbol:* An Aegis with a tetradic Star
+		- Wish for Justice (wish of a single person)
 		- *Credits to Amelie*
 
 
