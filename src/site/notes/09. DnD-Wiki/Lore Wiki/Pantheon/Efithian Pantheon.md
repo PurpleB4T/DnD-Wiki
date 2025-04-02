@@ -320,7 +320,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 - *Justice* 
 { #Justice}
 
-	- **Veylith:** Equity (Fairness & Impartiality (n))
+	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Veylith\|Veylith]]:** Equity (Fairness & Impartiality (n))
 { #963344}
 
 		- *Aspects:*
