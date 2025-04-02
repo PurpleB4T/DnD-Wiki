@@ -40,3 +40,6 @@ They say that deep within the all-encompassing roots of the World Tree, in a hol
 
 
 ## Religions
+>[!infobox]
+>![Pak Delivery.png|250](/img/user/z_Assets/Pak%20Delivery.png)
+> <center>Delivery</center>

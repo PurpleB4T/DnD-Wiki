@@ -122,6 +122,9 @@ original creators
 	- ""
 	- *Symbol:* Molten metal pouring from a crucible
 - **Dikai** Justice (n)
+ 
+{ #Dikai}
+
 	- *Symbol:* Two Hands grasping each others wrists
 
 ### Lesser Deities
@@ -209,7 +212,10 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- Afterlife
 			- Journey
 			- Transition
-	- Judgement (m)
+	- **Vero** Judgement (m)
+	 
+{ #judgementt}
+
 		- *Aspects:*
 			- Fate
 			- Unification
@@ -272,7 +278,14 @@ Each Domain houses three gods, each representing an aspect of their respective D
 	- Structure (f)
 	- Stability (m)
 		- Security
-	- Enforcement (n)
+	- **Exarch:** Enforcement (n)
+	^Enforcement
+		- *Aspects:* 
+			- the end of war
+			- upholding judgement
+			- execution
+		- closely aligned with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Retribution\|Dravos]] and [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^judgementt\|Vero]]
+		- worshipped by many soldiers and executioners 
 
 ---
 
@@ -286,52 +299,49 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- Discipline, Tactics
 	- Conflict (m)
 		- Violence, Strife
-- Forge
+- *Forge*
 	- Craftsmanship (f)
 		- Artistry, Invention
 	- Legacy (m)
 		- Inheritance, Heritage
-	- Determination (n)
-		- Drive
-- Justice
-	- Equity (Fairness & Impartiality (n))
-		- Balance, Righteousness, Impartiality
-	- Retribution (Accountability & Consequences) (m) 
-		- Punishment, Responsibility, Lawfulness
+	- Trade (n)
+		- commerce
+		- wit
+		- closely alligned with knowledge deities
+- *Justice*
+ 
+{ #Justice}
+
+	- **Veylith:** Equity (Fairness & Impartiality (n))
+		- *Aspects:*
+			- Balance
+			- Righteousness
+			- Impartiality
+		- worshipped by many [[09. DnD-Wiki/Rules/Lineages/Tiefling\|Tieflings]], [[09. DnD-Wiki/Rules/Lineages/Elf#Drow\|Drow]] and other disadvantaged people
+		- *Symbol:* A Stone Face without eyes
+	- **Dravos:** Retribution (Accountability & Consequences) (m) 
+	 
+{ #Retribution}
+
+		- *Aspects:*
+			- Punishment
+			- Responsibility
+			- Lawfulness
+		- Closely aligned with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Enforcement\|Exarch]]
 	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Phaedra\|Phaedra]]** - Protection and Restoration (f)
 		- *Aspects:*
-			- heal, restore and bring balance
-			- Mercy, Redemption, Reconciliation 
+			- healing, restoration and bringing balance
+			- Mercy
+			- Redemption
+			- Reconciliation 
+		- *Symbol:* An Aegis with a tetradic Star
 		- *Credits to Amelie*
 
-
-
-
-
-
--  
 
 ## Other Pantheons
 - Lolth - Trickery, War
 - Eilistraee - Light, Life, Nature
 - - Sune - Life, Light
-### Domains
-- Arcana Domain x Or 
-- Balance Domain A
-- Chaos Domain A 
-- Death Domain C 
-- Forge Domain C 
-- Justice Domain C
-- Grave Domain
-- Knowledge Domain
-- Life Domain x or 
-- Light Domain x  or 
-- Nature Domain A 
-- Peace Domain A 
-- Temptest Domain x or 
-- Trickery Domain C 
-- Twilight Domain C 
-- War Domain A 
-- Fate Domain  O 
+
 
 

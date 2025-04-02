@@ -193,9 +193,9 @@ At 20th level, your control over Metamagic has been honed to the point of master
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Storm Sorcery\|Storm Sorcery]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Wild Magic\|Wild Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Shadow Magic\|Shadow Magic]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Lunar Sorcery\|Lunar Sorcery]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Draconic Bloodline\|Draconic Bloodline]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Divine Soul\|Divine Soul]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Lunar Sorcery\|Lunar Sorcery]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Aberrant Mind\|Aberrant Mind]]
 

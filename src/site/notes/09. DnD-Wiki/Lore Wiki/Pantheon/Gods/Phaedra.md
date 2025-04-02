@@ -33,14 +33,33 @@
 # Phaedra
 Art by Amelie
 ## Description
-TBD
- 
+Phaedra remains in her human form, of a 2 meter tall, masked warrior woman. Seven swords are rammed into her back.
+
+### Aspects
+Phaedra is a goddess of *Protection*, under the [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Justice\|Justice Domain]]. Other aspects of her divine rule include *Mercy*, *Redemption*, *Reconciliation*, and *Restoration*
 ## History 
-TBD
+
+The Minotaur Asterius (Phaedra’s half-brother) grew up to be violent and developed a craving for human flesh. King Minos (Phaedra’s father) ordered an inescapable labyrinth to be built and put the Minotaur inside. 
+
+Androgeus (Son of King Minos and Phaedra’s brother) was killed by the Athenians; King Minos then waged a war of revenge for his son and won.
+
+As a result, every seven years, seven boys and seven girls from Athens were sent into the labyrinth as a sacrifice to the Minotaur.
+
+Phaedra thought this to be cruel and implored her father to stop but to no avail. She then decided to go into the labyrinth herself to protect the people from being eaten, knowing she will never get out again. From then on she spent years in the labyrinth battling the Minotaur. She had no intention of killing him as she still saw him as her brother. She sustained many injuries - it is said that each sword in her back symbolizes a year in the labyrinth.
+
+After a few years had passed, Theseus (greek “hero” from Athens) set out to kill the Minotaur and stop the human sacrifices. When he arrived, Ariadne (Phaedra’s sister) fell in love with him and promised to help him out of the labyrinth; she gave him a ball of thread so he could his retrace his path. 
+
+Theseus went into the labyrinth to find Phaedra and Asterius fighting. Phaedra begged Theseus not to kill the Minotaur but he didn’t listen. After years of fighting, Phaedra didn’t have the strength to stop him anymore and had to watch as he slayed her brother. Theseus left the labyrinth again together with the Athenians and got all the glory for saving them. Stricken with grief and anguish, Phaedra was about to take her own life when [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Dikai\|The God of Justice]] intervened and granted her godhood as an acknowledgement of her deeds.
 
 ## Religions
 ### [[09. DnD-Wiki/Lore Wiki/Places/l.Eranvale\|Eranvale]]
 - worshipped by common people who cannot fend for themselves
+
+>[!infobox]
+>![Phandrea Symbol.png|250](/img/user/z_Assets/Files/Phandrea%20Symbol.png)
+> <center>Holy Symbol</center>
 ####  The Bearing - Temple in Entodiff
 - temple in Entodiff
 - main temple for the followers in Eranvale
+##### Notable Members
+- [[09. DnD-Wiki/Lore Wiki/Parties/Characters/w.Astra\|Astra]]: Aasimar of Phaedra
