@@ -152,12 +152,13 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- *Aspects:*
 			- Calm, Safety
 - **Twilight**
-	- Opposites - potential Elistraee replacement (f)
-		- Balance
+	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Bithiah\|Bithiah]]:** Opposites - potential Elistraee replacement (f)
+		- Balance #TODO 
+		- daughter of [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Destruction\|Zephorya]]
 	- Gateway -> "The Gamemaster" idea (m)
 		- the bridge between two --> Gateway
 		- Passing between
-	- Oracle (n)
+	- Oracle (n) #TODO 
 		- Divination, Spirits
 
 ---
@@ -230,7 +231,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- Transformation
 			- Change
 - **Life**
-	- Pleasures (n) (potential Sune and Freya)
+	- **Hedonis:** Pleasures (n) (potential Sune and Freya)
 		- *Aspects:*
 			- Spiritual and physical pleasures
 			- Joy
@@ -296,9 +297,12 @@ Each Domain houses three gods, each representing an aspect of their respective D
 
 - **War**
 	- **Zephorya:** Destruction and Transformation (f) 
+{ #Destruction}
+
 		- Change, Ruin, Rebirth
 		- potential Lolth replacement (maybe known as Lolth to drow)
 		- chaotic good and chaotic evil
+		- Motherly
 	- Leadership and Tactics (n)
 		- Discipline, Tactics
 	- **Sida:** Conflict (m)
