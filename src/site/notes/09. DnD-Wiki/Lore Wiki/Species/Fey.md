@@ -13,8 +13,8 @@ Yet another diverse group of minuscule fey were the gremlins, who descended from
 
 - [[09. DnD-Wiki/Rules/Lineages/Satyr\|Satyr]]
 - [[09. DnD-Wiki/Rules/Lineages/Harengon\|Harengon]]
-- [[09. DnD-Wiki/Rules/Lineages/Changeling\|Changeling]]
 - [[09. DnD-Wiki/Rules/Lineages/Fairy\|Fairy]]
+- [[09. DnD-Wiki/Rules/Lineages/Changeling\|Changeling]]
 - [[09. DnD-Wiki/Rules/Lineages/Elf\|Elf]]
 
 { .block-language-dataview}
