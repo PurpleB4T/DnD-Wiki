@@ -9,6 +9,7 @@
 **Because the Raven Queen is known to have forged the first of these weapons, many sages speculate that she and the force are one and that the weapons, along with hexblade warlocks, are tools she uses to manipulate events on the Material Plane to her inscrutable ends.**
 
 
+- **Expanded Spell List** *Improved* 
 * **Hexblade's Curse:** *Re-written*
 * **Hex Warrior:** Unchanged
 * **Accursed Specter:** Unchanged
@@ -16,7 +17,8 @@
 * **Master of Hexes:** Unchanged
 
 ### Expanded Spell List
-The Hexblade lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Hexblade Expanded Spells|   |
 |---|---|

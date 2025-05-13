@@ -6,13 +6,15 @@
 
 **Your patron is a lord or lady of the fey, a creature of legend who holds secrets that were forgotten before the mortal races were born. This being's motivations are often inscrutable, and sometimes whimsical, and might involve a striving for greater magical power or the settling of age-old grudges. Beings of this sort include the Prince of Frost; the Queen of Air and Darkness, ruler of the Gloaming Court; Titania of the Summer Court; her consort Oberon, the Green Lord; Hyrsam, the Prince of Fools; and ancient hags**
 
+- **Expanded Spell List** *Improved* 
 * **Fey Presence** *Improved*
 * **Misty Escape:** *Improved*
 * **Beguiling Defenses:** *Improved*
 * **Dark Delirium:** Unchanged
 
 ### Expanded Spell List
-The Archfey lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Archfey Expanded Spells|   |
 |---|---|

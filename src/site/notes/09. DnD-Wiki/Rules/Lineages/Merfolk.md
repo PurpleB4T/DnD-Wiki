@@ -29,23 +29,23 @@ Emissary of the Sea. Aquatic beasts have an extraordinary affinity with your peo
 
 
 > [!infobox]
-> # Merfolk 
+> # Merfolk (lore) 
 > ![The_Shape_Of_Water 3.png](/img/user/z_Assets/07.%20Images/The_Shape_Of_Water%203.png)
 > ###### Bio
 > | Info | Info |
 >  |---|---|
-> **Typically Found in** | `=this.found` |
-> **Life Expectancy** | `=this.age` |
-> **Typical Height Range**  | `=this.Height` |
+> **Typically Found in** | bodies of water, Plane of Water |
+> **Life Expectancy** | around 400 years |
+> **Typical Height Range**  | 2m - 3,6m |
 > ###### Info
 > | Info | Info |
 >  |---|---|
-> **Alias(es)** | `=this.alias` |
->  **Languages** | `=this.languages` |
+> **Alias(es)** | Mermaids,Fishfolk |
+>  **Languages** | Primordial |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
 > **Religion(s)** | `=link(this.AssociatedReligion)` |
 
-# **Merfolk**
+# **Merfolk (lore)**
 > [!info|bg-c-purple]- Overview
 > TBD
 
@@ -101,23 +101,23 @@ Emissary of the Sea. Aquatic beasts have an extraordinary affinity with your peo
 
 
 > [!infobox]
-> # Merfolk 
+> # Merfolk (lore) 
 > ![The_Shape_Of_Water 3.png](/img/user/z_Assets/07.%20Images/The_Shape_Of_Water%203.png)
 > ###### Bio
 > | Info | Info |
 >  |---|---|
-> **Typically Found in** | `=this.found` |
-> **Life Expectancy** | `=this.age` |
-> **Typical Height Range**  | `=this.Height` |
+> **Typically Found in** | bodies of water, Plane of Water |
+> **Life Expectancy** | around 400 years |
+> **Typical Height Range**  | 2m - 3,6m |
 > ###### Info
 > | Info | Info |
 >  |---|---|
-> **Alias(es)** | `=this.alias` |
->  **Languages** | `=this.languages` |
+> **Alias(es)** | Mermaids,Fishfolk |
+>  **Languages** | Primordial |
 > **Group(s)** | `=link(this.AssociatedGroup)` |
 > **Religion(s)** | `=link(this.AssociatedReligion)` |
 
-# **Merfolk**
+# **Merfolk (lore)**
 > [!info|bg-c-purple]- Overview
 > TBD
 

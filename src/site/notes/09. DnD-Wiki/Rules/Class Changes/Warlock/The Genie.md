@@ -17,8 +17,10 @@
 |4|Marid|Water|
 
 
+- **Expanded Spell List** *Improved* 
 ### Expanded Spell List
-At 1st level, the Genie lets you choose from an expanded list of spells when you learn a warlock spell. The Genie Expanded Spells table shows the genie spells that are added to the warlock spell list for you, along with the spells associated in the table with your patron's kind: dao, djinni, efreeti, or marid.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Genie Expanded Spells|   |   |   |   |   |
 |---|---|---|---|---|---|

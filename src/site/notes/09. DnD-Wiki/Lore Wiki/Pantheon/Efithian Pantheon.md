@@ -154,7 +154,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 - **Twilight**
 	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Bithiah\|Bithiah]]:** Opposites - potential Elistraee replacement (f)
 		- Balance #TODO 
-		- daughter of [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Destruction\|Zephorya]]
+		- daughter of [[#^Destruction|Zephorya]]
 	- Gateway -> "The Gamemaster" idea (m)
 		- the bridge between two --> Gateway
 		- Passing between
@@ -201,7 +201,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 		- *Aspects:*
 			- Symbiosis
 			- the Giving and Taking
-		- closely connected with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Vesh\|Vesh]], [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Memory\|Anamesis]], [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^963344\|Veylith]], [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Guidance\|Elpsis]] 
+		- closely connected with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Vesh\|Vesh]], [[#^Memory|Anamesis]], [[#^963344|Veylith]], [[#^Guidance|Elpsis]] 
 -  **Chaos**
 	- Disorder, Instability (m)
 		- Wildness
@@ -289,7 +289,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- the end of war
 			- upholding judgement
 			- execution
-		- closely aligned with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Retribution\|Dravos]] and [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^judgementt\|Vero]]
+		- closely aligned with [[#^Retribution|Dravos]] and [[#^judgementt|Vero]]
 		- worshipped by many soldiers and executioners 
 
 ---
@@ -341,7 +341,7 @@ Each Domain houses three gods, each representing an aspect of their respective D
 			- Punishment
 			- Responsibility
 			- Lawfulness
-		- Closely aligned with [[09. DnD-Wiki/Lore Wiki/Pantheon/Efithian Pantheon#^Enforcement\|Exarch]]
+		- Closely aligned with [[#^Enforcement|Exarch]]
 		- Believe of Justice (System believes in Justice)
 	- **[[09. DnD-Wiki/Lore Wiki/Pantheon/Gods/Phaedra\|Phaedra]]** - Protection and Restoration (f)
 { #4b14a6}

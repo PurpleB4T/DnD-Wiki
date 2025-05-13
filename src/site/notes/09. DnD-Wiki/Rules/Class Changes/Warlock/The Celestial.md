@@ -8,6 +8,7 @@
 
 **Being connected to such power can cause changes to your behavior and beliefs. You might find yourself driven to annihilate the undead, to defeat fiends, and to protect the innocent. At times, your heart might also be filled with a longing for the celestial realm of your patron, a desire to wander that paradise for the rest of your days. But you know that your mission is among mortals for now and that your pact binds you to bring light to the dark places of the world.**
 
+- **Expanded Spell List** *Improved*
 * **Bonus Cantrips:** *Re-written*
 * **Healing Light:** Unchanged
 * **Radiant Soul:** *Re-written*
@@ -15,8 +16,8 @@
 * **Searing Vengeance:** Unchanged
 
 ### Expanded Spell List
-
-The Celestial lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Celestial Expanded Spells|   |
 |---|---|

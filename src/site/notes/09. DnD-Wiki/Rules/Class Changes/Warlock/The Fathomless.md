@@ -11,8 +11,10 @@
 **Entities of the deep that might empower a warlock include krakens, ancient water elementals, godlike hallucinations dreamed into being by kuo-toa, merfolk demigods, and sea hag covens.**
 
 
+- **Expanded Spell List** *Improved* 
 ### Expanded Spell List
-The Fathomless lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Fathomless Expanded Spells|   |
 |---|---|

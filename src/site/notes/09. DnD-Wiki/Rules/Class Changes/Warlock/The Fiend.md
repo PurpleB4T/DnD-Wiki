@@ -6,13 +6,15 @@
 
 **You have made a pact with a fiend from the lower planes of existence, a being whose aims are evil, even if you strive against those aims. Such beings desire the corruption or destruction of all things, ultimately including you. Fiends powerful enough to forge a pact include demon lords such as Demogorgon, Orcus, Fraz'Urb-luu, and Baphomet; archdevils such as Asmodeus, Dispater, Mephistopheles, and Belial; pit fiends and balors that are especially mighty; and ultroloths and other lords of the yugoloths.**
 
+- **Expanded Spell List** *Improved* 
 * **Dark One's Blessing:** Unchanged
 * **Dark One's Own Luck:** *Re-written*
 * **Fiendish Resilience:** Unchanged
 * **Hurl Through Hell:** Unchanged
 
 ### Expanded Spell List
-The Fiend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Fiend Expanded Spells|   |
 |---|---|

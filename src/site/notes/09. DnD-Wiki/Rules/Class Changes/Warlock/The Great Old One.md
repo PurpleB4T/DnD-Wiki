@@ -8,13 +8,15 @@
 
 **Entities of this type include Ghaunadar, called That Which Lurks; Tharizdun, the Chained God; Dendar, the Night Serpent; Zargon, the Returner; Great Cthulhu; and other unfathomable beings.**
 
+- **Expanded Spell List** *Improved* 
 * **Awakened Mind:** Unchanged
 * **Entropic Ward:** Unchanged
 * **Thought Shield:** *Re-written*
 * **Create Thrall:** Unchanged
 
 ### Expanded Spell List
-The Great Old One lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Great Old One Expanded Spells|   |
 |---|---|

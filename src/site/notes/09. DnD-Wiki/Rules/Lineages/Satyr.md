@@ -26,23 +26,23 @@
 
 **Tags:** #Species #Satyr 
 > [!infobox]
-> # Satyr (`=this.pronouns`)
+> # Satyrs (`=this.pronouns`)
 > ![Satyrs by Leo.png](/img/user/z_Assets/07.%20Images/Satyrs%20by%20Leo.png)
 > ###### Bio
 > | Info | Info |
 >  |---|---|
-> **Typically Found in** | `=this.found` |
-> **Life Expectancy** | `=this.age` |
-> **Typical Height Range**  | `=this.Height` |
+> **Typically Found in** | Feywild |
+> **Life Expectancy** | around 450-550 years |
+> **Typical Height Range**  | typically between 1m to 3,5m |
 > ###### Info
 > | Info | Info | 
 >  |---|---|
 > **Alias(es)** | `=this.alias` |
->  **Languages** | `=this.languages` |
-> **Group(s)** | `=link(this.AssociatedGroup)` |
-> **Religion(s)** | `=link(this.AssociatedReligion)` |
+>  **Languages** | Sylvan |
+> **Group(s)** | [[1. Eranvale Campaign/Organisations/Circle of tired Dads\|Circle of tired Dads]] |
+> **Religion(s)** | [[1. Eranvale Campaign/Organisations/Naturism\|Naturism]] |
 
-# **Satyr**
+# **Satyrs**
 > [!info|bg-c-purple]- Overview
 TBD
 

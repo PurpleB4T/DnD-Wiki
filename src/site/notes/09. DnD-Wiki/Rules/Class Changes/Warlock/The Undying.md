@@ -9,8 +9,10 @@
 **In the Realms, Undying patrons include Larloch the Shadow King, legendary master of Warlock's Crypt, and Gilgeam, the God-King of Unther.**
 
 
+- **Expanded Spell List** *Improved* 
 ### Expanded Spell List
-The Undying lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+You learn additional spells when you reach levels in this class, as shown in the Expanded Spell List below.
+Each of these spells counts as a warlock spell for you, but doesn't count against the number of spells you know.
 
 |Undying Expanded Spells|   |
 |---|---|

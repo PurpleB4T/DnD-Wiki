@@ -24,7 +24,7 @@
 > **Age** | 25 |
 > **Class**  | Barbarian |
 > **Subclass**  | Berserker |
-# Main Campaign
+# w.Astra
 ## Description
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -52,7 +52,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 > **Age** | 25 |
 > **Class**  | Sorcerer |
 > **Subclass**  | Draconic Bloodline |
-# Main Campaign
+# w.Dominique
 ## Description
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
 
@@ -133,7 +133,7 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 > **Age** | 25 |
 > **Class**  | Artificer |
 > **Subclass**  | Alchemist |
-# Main Campaign
+# w.Patch
 ## Description
 Genius Alchemist that seems unsociable but kind(?). Doesn't talk much and sometimes acts in unpredictable ways. Anything he makes tastes awful.
 
