@@ -28,11 +28,11 @@ When picking your lineage/ race and class please use this site instead of books 
 { .block-language-dataview}
 #### [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Barbarian\|Barbarian]] 
 Please note this is currently out of date as we're switching the Barbarian to the 2024 version, especially the Berserker subclass
-- [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Zealot\|Path of the Zealot]]
 - [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Storm Herald\|Path of the Storm Herald]]
-- [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Totem Warrior\|Path of the Totem Warrior]]
 - [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Ravager\|Path of the Ravager]]
 - [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Berserker\|Path of the Berserker]]
+- [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Zealot\|Path of the Zealot]]
+- [[09. DnD-Wiki/Rules/Class Changes/Barbarian/Path of the Totem Warrior\|Path of the Totem Warrior]]
 
 { .block-language-dataview}
 #### [[09. DnD-Wiki/Rules/Class Changes/Bard/Bard\|Bard]]
@@ -51,10 +51,10 @@ Please note this is currently out of date as we're switching the Barbarian to th
 
 { .block-language-dataview}
 #### [[09. DnD-Wiki/Rules/Class Changes/Fighter/Fighter\|Fighter]]
-- [[09. DnD-Wiki/Rules/Class Changes/Fighter/Eldritch Knight\|Eldritch Knight]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Samurai\|Samurai]]
-- [[09. DnD-Wiki/Rules/Class Changes/Fighter/Rune Knight\|Rune Knight]]
+- [[09. DnD-Wiki/Rules/Class Changes/Fighter/Eldritch Knight\|Eldritch Knight]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Arcane Archer\|Arcane Archer]]
+- [[09. DnD-Wiki/Rules/Class Changes/Fighter/Rune Knight\|Rune Knight]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Battle Master\|Battle Master]]
 - [[09. DnD-Wiki/Rules/Class Changes/Fighter/Banneret\|Banneret]]
 
@@ -62,10 +62,10 @@ Please note this is currently out of date as we're switching the Barbarian to th
 
 #### [[09. DnD-Wiki/Rules/Class Changes/Monk/Monk\|Monk]]
 - [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Sun Soul\|Way of the Sun Soul]]
-- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Open Hand\|Way of the Open Hand]]
-- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Shadow\|Way of the Shadow]]
-- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Kensei\|Way of the Kensei]]
 - [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Drunken Master\|Way of the Drunken Master]]
+- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Shadow\|Way of the Shadow]]
+- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Open Hand\|Way of the Open Hand]]
+- [[09. DnD-Wiki/Rules/Class Changes/Monk/Way of the Kensei\|Way of the Kensei]]
 
 { .block-language-dataview}
 
@@ -73,10 +73,10 @@ Please note this is currently out of date as we're switching the Barbarian to th
 - [[09. DnD-Wiki/Rules/Class Changes/Ranger/Swarmkeeper\|Swarmkeeper]]
 - [[09. DnD-Wiki/Rules/Class Changes/Ranger/Monster Slayer\|Monster Slayer]]
 - [[09. DnD-Wiki/Rules/Class Changes/Ranger/Horizon Walker\|Horizon Walker]]
-- [[09. DnD-Wiki/Rules/Class Changes/Ranger/Gloom Stalker\|Gloom Stalker]]
 - [[09. DnD-Wiki/Rules/Class Changes/Ranger/Hunter\|Hunter]]
-- [[09. DnD-Wiki/Rules/Class Changes/Ranger/Fey Wanderer\|Fey Wanderer]]
 - [[09. DnD-Wiki/Rules/Class Changes/Ranger/Beastmaster\|Beastmaster]]
+- [[09. DnD-Wiki/Rules/Class Changes/Ranger/Gloom Stalker\|Gloom Stalker]]
+- [[09. DnD-Wiki/Rules/Class Changes/Ranger/Fey Wanderer\|Fey Wanderer]]
 
 { .block-language-dataview}
 
@@ -95,41 +95,41 @@ Please note this is currently out of date as we're switching the Barbarian to th
 
 	
 #### [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Sorcerer\|Sorcerer]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Draconic Bloodline\|Draconic Bloodline]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Wild Magic\|Wild Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Storm Sorcery\|Storm Sorcery]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Wild Magic\|Wild Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Draconic Bloodline\|Draconic Bloodline]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Shadow Magic\|Shadow Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Lunar Sorcery\|Lunar Sorcery]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Divine Soul\|Divine Soul]]
-- [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Clockwork Soul\|Clockwork Soul]]
 - [[09. DnD-Wiki/Rules/Class Changes/Sorcerer/Aberrant Mind\|Aberrant Mind]]
 
 { .block-language-dataview}
 
 #### [[09. DnD-Wiki/Rules/Class Changes/Warlock/Warlock\|Warlock]] 
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Celestial\|The Celestial]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Genie\|The Genie]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Great Old One\|The Great Old One]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undead\|The Undead]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Undying\|The Undying]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Hexblade\|The Hexblade]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Great Old One\|The Great Old One]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fiend\|The Fiend]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Celestial\|The Celestial]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Fathomless\|The Fathomless]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Genie\|The Genie]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/The Archfey\|The Archfey]]
 
 { .block-language-dataview}
 ##### Eldritch Invocations
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Mire the Mind\|Mire the Mind]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Tomb of Levistus\|Tomb of Levistus]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Resistance of the Talisman\|Resistance of the Talisman]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Thief of Five Fates\|Thief of Five Fates]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Tomb of Levistus\|Tomb of Levistus]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Mire the Mind\|Mire the Mind]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Resistance of the Talisman\|Resistance of the Talisman]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Otherworldly Leap\|Otherworldly Leap]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Lance of Lethargy\|Lance of Lethargy]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Grasp of Hadar\|Grasp of Hadar]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gift of the Depths\|Gift of the Depths]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Master of Myriad Forms\|Master of Myriad Forms]]
-- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gaze of Two Minds\|Gaze of Two Minds]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eldritch Spear\|Eldritch Spear]]
+- [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Gaze of Two Minds\|Gaze of Two Minds]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Eyes of the Rune Keeper\|Eyes of the Rune Keeper]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Dreadful Word\|Dreadful Word]]
 - [[09. DnD-Wiki/Rules/Class Changes/Warlock/Eldritch Invokations/Bewitching Whispers\|Bewitching Whispers]]
@@ -138,18 +138,18 @@ Please note this is currently out of date as we're switching the Barbarian to th
 { .block-language-dataview}
 #### [[09. DnD-Wiki/Rules/Class Changes/Wizard/Wizard\|Wizard]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/War Magic\|War Magic]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Necromancy\|School of Necromancy]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Transmutation\|School of Transmutation]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Enchantment\|School of Enchantment]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Illusion\|School of Illusion]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Transmutation\|School of Transmutation]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Necromancy\|School of Necromancy]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Conjuration\|School of Conjuration]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Illusion\|School of Illusion]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Evocation\|School of Evocation]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Divination\|School of Divination]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Bladesinging\|Bladesinging]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/School of Abjuration\|School of Abjuration]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Order of Scribes\|Order of Scribes]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Bladesinging\|Bladesinging]]
-- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Chronurgy Magic\|Chronurgy Magic]]
 - [[09. DnD-Wiki/Rules/Class Changes/Wizard/Graviturgy Magic\|Graviturgy Magic]]
+- [[09. DnD-Wiki/Rules/Class Changes/Wizard/Chronurgy Magic\|Chronurgy Magic]]
 
 { .block-language-dataview}
 

@@ -16,7 +16,7 @@ This is the Lore-Wiki, in which I publish commonly known lore/ facts or people o
 	- [ ] Pran
 	- [ ] Astrakhan
 # Places
-## Planes^
+## Planes
 | File                                                                                 |
 | ------------------------------------------------------------------------------------ |
 | [[09. DnD-Wiki/Lore Wiki/Planes of Existence/l.Feywild\|l.Feywild]]               |
