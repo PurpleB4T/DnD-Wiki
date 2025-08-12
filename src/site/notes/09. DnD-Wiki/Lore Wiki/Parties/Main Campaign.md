@@ -72,7 +72,7 @@ Recently his more draconic side is starting to show….
 
 
 
-> [!infobox]
+> [!infobox|left]
 > # Patch
 > ![Patch_Portrait.png|200](/img/user/z_Assets/Patch_Portrait.png)
 > ###### Bio
@@ -99,7 +99,7 @@ Genius Alchemist that seems unsociable but kind(?). Doesn't talk much and someti
 
 
 
-> [!infobox|left]
+> [!infobox|right]
 > # Quill
 > ![Quill Portrait.png|200](/img/user/z_Assets/Quill%20Portrait.png)
 > ###### Bio

@@ -3,7 +3,7 @@
 ---
 
 
-> [!infobox]
+> [!infobox|left]
 > # Patch
 > ![Patch_Portrait.png|200](/img/user/z_Assets/Patch_Portrait.png)
 > ###### Bio
