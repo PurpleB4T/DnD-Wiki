@@ -139,12 +139,12 @@ If your attack misses a target within range, you can turn the miss into a hit. A
 Once you use this feature, you can't use it again until you finish a short or long rest.
 
 ## Subclasses
-- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Swashbuckler\|Swashbuckler]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Thief\|Thief]]
+- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Swashbuckler\|Swashbuckler]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Soulknife\|Soulknife]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Scout\|Scout]]
-- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Mastermind\|Mastermind]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Phantom\|Phantom]]
+- [[09. DnD-Wiki/Rules/Class Changes/Rougue/Mastermind\|Mastermind]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Inquisitive\|Inquisitive]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Assassin\|Assassin]]
 - [[09. DnD-Wiki/Rules/Class Changes/Rougue/Arcane Trickster\|Arcane Trickster]]

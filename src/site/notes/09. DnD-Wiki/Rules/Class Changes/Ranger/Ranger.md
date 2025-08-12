@@ -486,12 +486,12 @@ reach 5 ft., one target. Hit: ld4 + 3 + PB slashing damage.
 # Subclasses
 | File                                                                          |
 | ----------------------------------------------------------------------------- |
-| [[09. DnD-Wiki/Rules/Class Changes/Ranger/Swarmkeeper\|Swarmkeeper]]       |
 | [[09. DnD-Wiki/Rules/Class Changes/Ranger/Monster Slayer\|Monster Slayer]] |
+| [[09. DnD-Wiki/Rules/Class Changes/Ranger/Swarmkeeper\|Swarmkeeper]]       |
+| [[09. DnD-Wiki/Rules/Class Changes/Ranger/Gloom Stalker\|Gloom Stalker]]   |
 | [[09. DnD-Wiki/Rules/Class Changes/Ranger/Horizon Walker\|Horizon Walker]] |
 | [[09. DnD-Wiki/Rules/Class Changes/Ranger/Hunter\|Hunter]]                 |
-| [[09. DnD-Wiki/Rules/Class Changes/Ranger/Beastmaster\|Beastmaster]]       |
-| [[09. DnD-Wiki/Rules/Class Changes/Ranger/Gloom Stalker\|Gloom Stalker]]   |
 | [[09. DnD-Wiki/Rules/Class Changes/Ranger/Fey Wanderer\|Fey Wanderer]]     |
+| [[09. DnD-Wiki/Rules/Class Changes/Ranger/Beastmaster\|Beastmaster]]       |
 
 { .block-language-dataview}
